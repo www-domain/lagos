@@ -1,0 +1,4646 @@
+[
+    {
+        "LGA_ID": 1,
+        "LGA_Name": "GUDU",
+        "LGA_Code": 1,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 2,
+        "LGA_Name": "BINJI",
+        "LGA_Code": 2,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 3,
+        "LGA_Name": "TANGAZA",
+        "LGA_Code": 3,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 4,
+        "LGA_Name": "GWADABAWA",
+        "LGA_Code": 4,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 5,
+        "LGA_Name": "ILLELA",
+        "LGA_Code": 5,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 6,
+        "LGA_Name": "GADA",
+        "LGA_Code": 6,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 7,
+        "LGA_Name": "SABON BIRNI",
+        "LGA_Code": 7,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 8,
+        "LGA_Name": "ISA",
+        "LGA_Code": 8,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 9,
+        "LGA_Name": "GORONYO",
+        "LGA_Code": 9,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 10,
+        "LGA_Name": "WURNO",
+        "LGA_Code": 10,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 11,
+        "LGA_Name": "RABAH",
+        "LGA_Code": 11,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 12,
+        "LGA_Name": "KWARE",
+        "LGA_Code": 12,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 13,
+        "LGA_Name": "SOKOTO SOUTH",
+        "LGA_Code": 13,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 14,
+        "LGA_Name": "SOKOTO NORTH",
+        "LGA_Code": 14,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 15,
+        "LGA_Name": "WAMAKKO",
+        "LGA_Code": 15,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 16,
+        "LGA_Name": "SILAME",
+        "LGA_Code": 16,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 17,
+        "LGA_Name": "YABO",
+        "LGA_Code": 17,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 18,
+        "LGA_Name": "BODINGA",
+        "LGA_Code": 18,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 19,
+        "LGA_Name": "DANGE SHUNI",
+        "LGA_Code": 19,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 20,
+        "LGA_Name": "TURETA",
+        "LGA_Code": 20,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 21,
+        "LGA_Name": "SHAGARI",
+        "LGA_Code": 21,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 22,
+        "LGA_Name": "TAMBUWAL",
+        "LGA_Code": 22,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 23,
+        "LGA_Name": "KEBBE",
+        "LGA_Code": 23,
+        "State_ID": 1
+    },
+    {
+        "LGA_ID": 24,
+        "LGA_Name": "GUMMI",
+        "LGA_Code": 24,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 25,
+        "LGA_Name": "BUKKUYUM",
+        "LGA_Code": 25,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 26,
+        "LGA_Name": "ANKA",
+        "LGA_Code": 26,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 27,
+        "LGA_Name": "BAKURA",
+        "LGA_Code": 27,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 28,
+        "LGA_Name": "TALATA MAFARA",
+        "LGA_Code": 28,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 29,
+        "LGA_Name": "MARADUN",
+        "LGA_Code": 29,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 30,
+        "LGA_Name": "SHINKAFI",
+        "LGA_Code": 30,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 31,
+        "LGA_Name": "ZURMI MARU",
+        "LGA_Code": 31,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 32,
+        "LGA_Name": "BIRNIN MAGAJI",
+        "LGA_Code": 32,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 33,
+        "LGA_Name": "KAURA NAMODA",
+        "LGA_Code": 33,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 34,
+        "LGA_Name": "TSAFE",
+        "LGA_Code": 34,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 35,
+        "LGA_Name": "GUSAU",
+        "LGA_Code": 35,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 36,
+        "LGA_Name": "BUNGUDU",
+        "LGA_Code": 36,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 37,
+        "LGA_Name": "MARU",
+        "LGA_Code": 37,
+        "State_ID": 2
+    },
+    {
+        "LGA_ID": 38,
+        "LGA_Name": "BAURE",
+        "LGA_Code": 38,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 39,
+        "LGA_Name": "ZANGO",
+        "LGA_Code": 39,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 40,
+        "LGA_Name": "SANDAMU",
+        "LGA_Code": 40,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 41,
+        "LGA_Name": "DUTSI",
+        "LGA_Code": 41,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 42,
+        "LGA_Name": "DAURA",
+        "LGA_Code": 42,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 43,
+        "LGA_Name": "MAI'ADUA",
+        "LGA_Code": 43,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 44,
+        "LGA_Name": "MASHI",
+        "LGA_Code": 44,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 45,
+        "LGA_Name": "KAITA",
+        "LGA_Code": 45,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 46,
+        "LGA_Name": "KATSINA",
+        "LGA_Code": 46,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 47,
+        "LGA_Name": "JIBIA",
+        "LGA_Code": 47,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 48,
+        "LGA_Name": "BATSARI",
+        "LGA_Code": 48,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 49,
+        "LGA_Name": "BATAGARAWA",
+        "LGA_Code": 49,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 50,
+        "LGA_Name": "RIMI",
+        "LGA_Code": 50,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 51,
+        "LGA_Name": "MANI",
+        "LGA_Code": 51,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 52,
+        "LGA_Name": "INGAWA",
+        "LGA_Code": 52,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 53,
+        "LGA_Name": "KUSADA",
+        "LGA_Code": 53,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 54,
+        "LGA_Name": "BINDAWA",
+        "LGA_Code": 54,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 55,
+        "LGA_Name": "CHARANCHI",
+        "LGA_Code": 55,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 56,
+        "LGA_Name": "KURFI",
+        "LGA_Code": 56,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 57,
+        "LGA_Name": "SAFANA",
+        "LGA_Code": 57,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 58,
+        "LGA_Name": "DUTSIN-MA",
+        "LGA_Code": 58,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 59,
+        "LGA_Name": "KANKIA",
+        "LGA_Code": 59,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 60,
+        "LGA_Name": "MATAZU",
+        "LGA_Code": 60,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 61,
+        "LGA_Name": "DAN MUSA",
+        "LGA_Code": 61,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 62,
+        "LGA_Name": "KANKARA",
+        "LGA_Code": 62,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 63,
+        "LGA_Name": "MUSAWA",
+        "LGA_Code": 63,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 64,
+        "LGA_Name": "MALUNFASHI",
+        "LGA_Code": 64,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 65,
+        "LGA_Name": "KAFUR",
+        "LGA_Code": 65,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 66,
+        "LGA_Name": "BAKORI",
+        "LGA_Code": 66,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 67,
+        "LGA_Name": "FASKARI",
+        "LGA_Code": 67,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 68,
+        "LGA_Name": "SABUWA",
+        "LGA_Code": 68,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 69,
+        "LGA_Name": "DANDUME",
+        "LGA_Code": 69,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 70,
+        "LGA_Name": "FUNTUA",
+        "LGA_Code": 70,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 71,
+        "LGA_Name": "DANJA",
+        "LGA_Code": 71,
+        "State_ID": 3
+    },
+    {
+        "LGA_ID": 72,
+        "LGA_Name": "RONI",
+        "LGA_Code": 72,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 73,
+        "LGA_Name": "GWIWA",
+        "LGA_Code": 73,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 74,
+        "LGA_Name": "YANKWASHI",
+        "LGA_Code": 74,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 75,
+        "LGA_Name": "KAZAURE",
+        "LGA_Code": 75,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 76,
+        "LGA_Name": "BABURA",
+        "LGA_Code": 76,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 77,
+        "LGA_Name": "GARKI",
+        "LGA_Code": 77,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 78,
+        "LGA_Name": "SULE TANKARKAR",
+        "LGA_Code": 78,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 79,
+        "LGA_Name": "GUMEL",
+        "LGA_Code": 79,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 80,
+        "LGA_Name": "GAGARAWA",
+        "LGA_Code": 80,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 81,
+        "LGA_Name": "MAIGATARI",
+        "LGA_Code": 81,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 82,
+        "LGA_Name": "KAUGAMA",
+        "LGA_Code": 82,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 83,
+        "LGA_Name": "MALAM MADORI",
+        "LGA_Code": 83,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 84,
+        "LGA_Name": "BIRNIWA",
+        "LGA_Code": 84,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 85,
+        "LGA_Name": "GURI",
+        "LGA_Code": 85,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 86,
+        "LGA_Name": "KIRI KASAMA",
+        "LGA_Code": 86,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 87,
+        "LGA_Name": "HADEJIA",
+        "LGA_Code": 87,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 88,
+        "LGA_Name": "AUYO",
+        "LGA_Code": 88,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 89,
+        "LGA_Name": "KAFIN HAUSA",
+        "LGA_Code": 89,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 90,
+        "LGA_Name": "MIGA",
+        "LGA_Code": 90,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 91,
+        "LGA_Name": "TAURA",
+        "LGA_Code": 91,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 92,
+        "LGA_Name": "RINGIM",
+        "LGA_Code": 92,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 93,
+        "LGA_Name": "JAHUN",
+        "LGA_Code": 93,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 94,
+        "LGA_Name": "KIYAWA",
+        "LGA_Code": 94,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 95,
+        "LGA_Name": "DUTSE",
+        "LGA_Code": 95,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 96,
+        "LGA_Name": "BIRNIN KUDU",
+        "LGA_Code": 96,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 97,
+        "LGA_Name": "BUJI",
+        "LGA_Code": 97,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 98,
+        "LGA_Name": "GWARAM",
+        "LGA_Code": 98,
+        "State_ID": 4
+    },
+    {
+        "LGA_ID": 99,
+        "LGA_Name": "MACHINA",
+        "LGA_Code": 99,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 100,
+        "LGA_Name": "NGURU",
+        "LGA_Code": 100,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 101,
+        "LGA_Name": "YUSUFARI",
+        "LGA_Code": 101,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 102,
+        "LGA_Name": "YUNUSARI",
+        "LGA_Code": 102,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 103,
+        "LGA_Name": "GEIDAM",
+        "LGA_Code": 103,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 104,
+        "LGA_Name": "BURSARI",
+        "LGA_Code": 104,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 105,
+        "LGA_Name": "KARASUWA",
+        "LGA_Code": 105,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 106,
+        "LGA_Name": "BARDE",
+        "LGA_Code": 106,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 107,
+        "LGA_Name": "JAKUSKO",
+        "LGA_Code": 107,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 108,
+        "LGA_Name": "FUNE",
+        "LGA_Code": 108,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 109,
+        "LGA_Name": "TARMUWA",
+        "LGA_Code": 109,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 110,
+        "LGA_Name": "DAMATURU",
+        "LGA_Code": 110,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 111,
+        "LGA_Name": "GUJBA",
+        "LGA_Code": 111,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 112,
+        "LGA_Name": "GULANI",
+        "LGA_Code": 112,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 113,
+        "LGA_Name": "FIKA",
+        "LGA_Code": 113,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 114,
+        "LGA_Name": "POTISKUM",
+        "LGA_Code": 114,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 115,
+        "LGA_Name": "NANGERE",
+        "LGA_Code": 115,
+        "State_ID": 5
+    },
+    {
+        "LGA_ID": 116,
+        "LGA_Name": "MOBBAR",
+        "LGA_Code": 116,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 117,
+        "LGA_Name": "ABADAN",
+        "LGA_Code": 117,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 118,
+        "LGA_Name": "KUKAWA",
+        "LGA_Code": 118,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 119,
+        "LGA_Name": "GUZAMALA",
+        "LGA_Code": 119,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 120,
+        "LGA_Name": "GUBIO",
+        "LGA_Code": 120,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 121,
+        "LGA_Name": "MAGUMERI",
+        "LGA_Code": 121,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 122,
+        "LGA_Name": "KAGA",
+        "LGA_Code": 122,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 123,
+        "LGA_Name": "KONDUGA",
+        "LGA_Code": 123,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 124,
+        "LGA_Name": "MAIDUGURI",
+        "LGA_Code": 124,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 125,
+        "LGA_Name": "JERE",
+        "LGA_Code": 125,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 126,
+        "LGA_Name": "NGANZAI",
+        "LGA_Code": 126,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 127,
+        "LGA_Name": "MONGUNO",
+        "LGA_Code": 127,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 128,
+        "LGA_Name": "MARTE",
+        "LGA_Code": 128,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 129,
+        "LGA_Name": "MAFA",
+        "LGA_Code": 129,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 130,
+        "LGA_Name": "DIKWA",
+        "LGA_Code": 130,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 131,
+        "LGA_Name": "NGALA",
+        "LGA_Code": 131,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 132,
+        "LGA_Name": "KALABALGE",
+        "LGA_Code": 132,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 133,
+        "LGA_Name": "BAMA",
+        "LGA_Code": 133,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 134,
+        "LGA_Name": "GWOZA",
+        "LGA_Code": 134,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 135,
+        "LGA_Name": "DAMBOA",
+        "LGA_Code": 135,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 136,
+        "LGA_Name": "ASKIRA/UBA",
+        "LGA_Code": 136,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 137,
+        "LGA_Name": "CHIBOK",
+        "LGA_Code": 137,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 138,
+        "LGA_Name": "BIU",
+        "LGA_Code": 138,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 139,
+        "LGA_Name": "KWAYA",
+        "LGA_Code": 139,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 140,
+        "LGA_Name": "BAYO",
+        "LGA_Code": 140,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 141,
+        "LGA_Name": "SHANI",
+        "LGA_Code": 141,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 142,
+        "LGA_Name": "HAWUL",
+        "LGA_Code": 142,
+        "State_ID": 6
+    },
+    {
+        "LGA_ID": 143,
+        "LGA_Name": "MADAGALI",
+        "LGA_Code": 143,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 144,
+        "LGA_Name": "MICHIKA",
+        "LGA_Code": 144,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 145,
+        "LGA_Name": "MUBI  NORTH",
+        "LGA_Code": 145,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 146,
+        "LGA_Name": "MUBI  SOUTH",
+        "LGA_Code": 146,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 147,
+        "LGA_Name": "MAIHA",
+        "LGA_Code": 147,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 148,
+        "LGA_Name": "HONG",
+        "LGA_Code": 148,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 149,
+        "LGA_Name": "GOMBI",
+        "LGA_Code": 149,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 150,
+        "LGA_Name": "SONG",
+        "LGA_Code": 150,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 151,
+        "LGA_Name": "SHELLENG",
+        "LGA_Code": 151,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 152,
+        "LGA_Name": "GUYUK",
+        "LGA_Code": 152,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 153,
+        "LGA_Name": "LAMURDE",
+        "LGA_Code": 153,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 154,
+        "LGA_Name": "NUMAN",
+        "LGA_Code": 154,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 155,
+        "LGA_Name": "DEMSA",
+        "LGA_Code": 155,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 156,
+        "LGA_Name": "YOLA  NORTH",
+        "LGA_Code": 156,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 157,
+        "LGA_Name": "YOLA  SOUTH",
+        "LGA_Code": 157,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 158,
+        "LGA_Name": "GIREI",
+        "LGA_Code": 158,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 159,
+        "LGA_Name": "FUFORE",
+        "LGA_Code": 159,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 160,
+        "LGA_Name": "MAYO BELWA",
+        "LGA_Code": 160,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 161,
+        "LGA_Name": "JADA",
+        "LGA_Code": 161,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 162,
+        "LGA_Name": "GANYE",
+        "LGA_Code": 162,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 163,
+        "LGA_Name": "TOUNGO",
+        "LGA_Code": 163,
+        "State_ID": 7
+    },
+    {
+        "LGA_ID": 164,
+        "LGA_Name": "DUKKU",
+        "LGA_Code": 164,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 165,
+        "LGA_Name": "NAFADA",
+        "LGA_Code": 165,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 166,
+        "LGA_Name": "FUNA-KAYE",
+        "LGA_Code": 166,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 167,
+        "LGA_Name": "KWAMI",
+        "LGA_Code": 167,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 168,
+        "LGA_Name": "AKKO",
+        "LGA_Code": 168,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 169,
+        "LGA_Name": "GOMBE",
+        "LGA_Code": 169,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 170,
+        "LGA_Name": "YAMALTU-DEBA",
+        "LGA_Code": 170,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 171,
+        "LGA_Name": "BALANGA",
+        "LGA_Code": 171,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 172,
+        "LGA_Name": "KALTUNGO",
+        "LGA_Code": 172,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 173,
+        "LGA_Name": "BILLIRI",
+        "LGA_Code": 173,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 174,
+        "LGA_Name": "SHONGOM",
+        "LGA_Code": 174,
+        "State_ID": 8
+    },
+    {
+        "LGA_ID": 175,
+        "LGA_Name": "ZAKI",
+        "LGA_Code": 175,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 176,
+        "LGA_Name": "GAMAWA",
+        "LGA_Code": 176,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 177,
+        "LGA_Name": "ITAS-GADAU",
+        "LGA_Code": 177,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 178,
+        "LGA_Name": "JAMA?ARE",
+        "LGA_Code": 178,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 179,
+        "LGA_Name": "KATAGUM",
+        "LGA_Code": 179,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 180,
+        "LGA_Name": "SHIRA",
+        "LGA_Code": 180,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 181,
+        "LGA_Name": "GIADE",
+        "LGA_Code": 181,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 182,
+        "LGA_Name": "MISAU",
+        "LGA_Code": 182,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 183,
+        "LGA_Name": "DAMBAM",
+        "LGA_Code": 183,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 184,
+        "LGA_Name": "DARAZO",
+        "LGA_Code": 184,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 185,
+        "LGA_Name": "GUNJUWA",
+        "LGA_Code": 185,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 186,
+        "LGA_Name": "WARJI",
+        "LGA_Code": 186,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 187,
+        "LGA_Name": "NINGI",
+        "LGA_Code": 187,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 188,
+        "LGA_Name": "TORO",
+        "LGA_Code": 188,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 189,
+        "LGA_Name": "BAUCHI",
+        "LGA_Code": 189,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 190,
+        "LGA_Name": "KIRFI",
+        "LGA_Code": 190,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 191,
+        "LGA_Name": "ALKALERI",
+        "LGA_Code": 191,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 192,
+        "LGA_Name": "TAFAWA BALEWA",
+        "LGA_Code": 192,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 193,
+        "LGA_Name": "DASS",
+        "LGA_Code": 193,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 194,
+        "LGA_Name": "BOGORO",
+        "LGA_Code": 194,
+        "State_ID": 9
+    },
+    {
+        "LGA_ID": 195,
+        "LGA_Name": "KUNCHI",
+        "LGA_Code": 195,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 196,
+        "LGA_Name": "MAKODA",
+        "LGA_Code": 196,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 197,
+        "LGA_Name": "DAMBATTA",
+        "LGA_Code": 197,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 198,
+        "LGA_Name": "GABASAWA",
+        "LGA_Code": 198,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 199,
+        "LGA_Name": "MINJIBIR",
+        "LGA_Code": 199,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 200,
+        "LGA_Name": "DAWAKIN-TOFA",
+        "LGA_Code": 200,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 201,
+        "LGA_Name": "BICHI",
+        "LGA_Code": 201,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 202,
+        "LGA_Name": "TSANYAWA",
+        "LGA_Code": 202,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 203,
+        "LGA_Name": "SHANONO",
+        "LGA_Code": 203,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 204,
+        "LGA_Name": "BAGWAI",
+        "LGA_Code": 204,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 205,
+        "LGA_Name": "TOFA",
+        "LGA_Code": 205,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 206,
+        "LGA_Name": "UNGOGO",
+        "LGA_Code": 206,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 207,
+        "LGA_Name": "GWALE",
+        "LGA_Code": 207,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 208,
+        "LGA_Name": "DALA",
+        "LGA_Code": 208,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 209,
+        "LGA_Name": "FAGGE",
+        "LGA_Code": 209,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 210,
+        "LGA_Name": "NASARAWA",
+        "LGA_Code": 210,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 211,
+        "LGA_Name": "KANO MUNICIPAL",
+        "LGA_Code": 211,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 212,
+        "LGA_Name": "TARAUNI",
+        "LGA_Code": 212,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 213,
+        "LGA_Name": "KUMBOTSO",
+        "LGA_Code": 213,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 214,
+        "LGA_Name": "GEZAWA",
+        "LGA_Code": 214,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 215,
+        "LGA_Name": "WARAWA",
+        "LGA_Code": 215,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 216,
+        "LGA_Name": "AJINGI",
+        "LGA_Code": 216,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 217,
+        "LGA_Name": "GAYA",
+        "LGA_Code": 217,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 218,
+        "LGA_Name": "WUDIL",
+        "LGA_Code": 218,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 219,
+        "LGA_Name": "DAWAKIN KUDU",
+        "LGA_Code": 219,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 220,
+        "LGA_Name": "MADOBI",
+        "LGA_Code": 220,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 221,
+        "LGA_Name": "RIMI-GADO",
+        "LGA_Code": 221,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 222,
+        "LGA_Name": "KABO",
+        "LGA_Code": 222,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 223,
+        "LGA_Name": "GWARZO",
+        "LGA_Code": 223,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 224,
+        "LGA_Name": "KARAYE",
+        "LGA_Code": 224,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 225,
+        "LGA_Name": "ROGO",
+        "LGA_Code": 225,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 226,
+        "LGA_Name": "KIRU",
+        "LGA_Code": 226,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 227,
+        "LGA_Name": "BEBEJI",
+        "LGA_Code": 227,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 228,
+        "LGA_Name": "GARUN-MALAM",
+        "LGA_Code": 228,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 229,
+        "LGA_Name": "KURA",
+        "LGA_Code": 229,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 230,
+        "LGA_Name": "BUNKURE",
+        "LGA_Code": 230,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 231,
+        "LGA_Name": "RANO",
+        "LGA_Code": 231,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 232,
+        "LGA_Name": "KIBIYA",
+        "LGA_Code": 232,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 233,
+        "LGA_Name": "GARKO",
+        "LGA_Code": 233,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 234,
+        "LGA_Name": "ALBASU",
+        "LGA_Code": 234,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 235,
+        "LGA_Name": "TAKAI",
+        "LGA_Code": 235,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 236,
+        "LGA_Name": "SUMAILA",
+        "LGA_Code": 236,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 237,
+        "LGA_Name": "TUDUN-WADA",
+        "LGA_Code": 237,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 238,
+        "LGA_Name": "DOGUWA",
+        "LGA_Code": 238,
+        "State_ID": 10
+    },
+    {
+        "LGA_ID": 239,
+        "LGA_Name": "BIRNIN- GWARI",
+        "LGA_Code": 239,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 240,
+        "LGA_Name": "GIWA",
+        "LGA_Code": 240,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 241,
+        "LGA_Name": "SABON-GARI",
+        "LGA_Code": 241,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 242,
+        "LGA_Name": "KUDAN",
+        "LGA_Code": 242,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 243,
+        "LGA_Name": "MAKARFI",
+        "LGA_Code": 243,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 244,
+        "LGA_Name": "IKARA",
+        "LGA_Code": 244,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 245,
+        "LGA_Name": "KUBAU",
+        "LGA_Code": 245,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 246,
+        "LGA_Name": "ZOBA",
+        "LGA_Code": 246,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 247,
+        "LGA_Name": "ZARIA",
+        "LGA_Code": 247,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 248,
+        "LGA_Name": "IGABI",
+        "LGA_Code": 248,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 249,
+        "LGA_Name": "KADUNA  NORTH",
+        "LGA_Code": 249,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 250,
+        "LGA_Name": "KADUNA SOUTH",
+        "LGA_Code": 250,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 251,
+        "LGA_Name": "CHIKUN",
+        "LGA_Code": 251,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 252,
+        "LGA_Name": "KAJURU",
+        "LGA_Code": 252,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 253,
+        "LGA_Name": "KAURA",
+        "LGA_Code": 253,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 254,
+        "LGA_Name": "LERE",
+        "LGA_Code": 254,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 255,
+        "LGA_Name": "ZANGON KATAF",
+        "LGA_Code": 255,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 256,
+        "LGA_Name": "KACHIA",
+        "LGA_Code": 256,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 257,
+        "LGA_Name": "KAGARKO",
+        "LGA_Code": 257,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 258,
+        "LGA_Name": "JABA",
+        "LGA_Code": 258,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 259,
+        "LGA_Name": "JEMA?A",
+        "LGA_Code": 259,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 260,
+        "LGA_Name": "KAURA",
+        "LGA_Code": 260,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 261,
+        "LGA_Name": "SANGA",
+        "LGA_Code": 261,
+        "State_ID": 11
+    },
+    {
+        "LGA_ID": 262,
+        "LGA_Name": "AREWA",
+        "LGA_Code": 262,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 263,
+        "LGA_Name": "AUGIE",
+        "LGA_Code": 263,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 264,
+        "LGA_Name": "ARGUNGU",
+        "LGA_Code": 264,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 265,
+        "LGA_Name": "GWANDU",
+        "LGA_Code": 265,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 266,
+        "LGA_Name": "BIRNIN KEBBI",
+        "LGA_Code": 266,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 267,
+        "LGA_Name": "ALIERO",
+        "LGA_Code": 267,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 268,
+        "LGA_Name": "JEGA",
+        "LGA_Code": 268,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 269,
+        "LGA_Name": "MAIYAMA",
+        "LGA_Code": 269,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 270,
+        "LGA_Name": "KALGO",
+        "LGA_Code": 270,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 271,
+        "LGA_Name": "BUNZA",
+        "LGA_Code": 271,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 272,
+        "LGA_Name": "SURU",
+        "LGA_Code": 272,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 273,
+        "LGA_Name": "DANDI",
+        "LGA_Code": 273,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 274,
+        "LGA_Name": "BAGUDO",
+        "LGA_Code": 274,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 275,
+        "LGA_Name": "KOKO/BESSE",
+        "LGA_Code": 275,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 276,
+        "LGA_Name": "YAURI",
+        "LGA_Code": 276,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 277,
+        "LGA_Name": "NGASKI",
+        "LGA_Code": 277,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 278,
+        "LGA_Name": "SHANGA",
+        "LGA_Code": 278,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 279,
+        "LGA_Name": "FAKAI",
+        "LGA_Code": 279,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 280,
+        "LGA_Name": "ZURU",
+        "LGA_Code": 280,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 281,
+        "LGA_Name": "DANKO/WASAGU",
+        "LGA_Code": 281,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 282,
+        "LGA_Name": "SAKABA",
+        "LGA_Code": 282,
+        "State_ID": 12
+    },
+    {
+        "LGA_ID": 283,
+        "LGA_Name": "AGWARA",
+        "LGA_Code": 283,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 284,
+        "LGA_Name": "BORGU",
+        "LGA_Code": 284,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 285,
+        "LGA_Name": "MASHEGU",
+        "LGA_Code": 285,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 286,
+        "LGA_Name": "MAGAMA",
+        "LGA_Code": 286,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 287,
+        "LGA_Name": "RIJAU",
+        "LGA_Code": 287,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 288,
+        "LGA_Name": "KONTAGORA",
+        "LGA_Code": 288,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 289,
+        "LGA_Name": "MARIGA",
+        "LGA_Code": 289,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 290,
+        "LGA_Name": "RAFI",
+        "LGA_Code": 290,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 291,
+        "LGA_Name": "SHIRORO",
+        "LGA_Code": 291,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 292,
+        "LGA_Name": "MUNYA",
+        "LGA_Code": 292,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 293,
+        "LGA_Name": "CHANCHAGA",
+        "LGA_Code": 293,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 294,
+        "LGA_Name": "BOSSO",
+        "LGA_Code": 294,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 295,
+        "LGA_Name": "WUSHISHI",
+        "LGA_Code": 295,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 296,
+        "LGA_Name": "LAVUN",
+        "LGA_Code": 296,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 297,
+        "LGA_Name": "MOKWA",
+        "LGA_Code": 297,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 298,
+        "LGA_Name": "EDATI",
+        "LGA_Code": 298,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 299,
+        "LGA_Name": "GBAKO",
+        "LGA_Code": 299,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 300,
+        "LGA_Name": "BIDA",
+        "LGA_Code": 300,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 301,
+        "LGA_Name": "KATCHA",
+        "LGA_Code": 301,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 302,
+        "LGA_Name": "AGAIE",
+        "LGA_Code": 302,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 303,
+        "LGA_Name": "LAPAI",
+        "LGA_Code": 303,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 304,
+        "LGA_Name": "PAIKORO",
+        "LGA_Code": 304,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 305,
+        "LGA_Name": "GURARA",
+        "LGA_Code": 305,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 306,
+        "LGA_Name": "SULEJA",
+        "LGA_Code": 306,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 307,
+        "LGA_Name": "TAFA",
+        "LGA_Code": 307,
+        "State_ID": 13
+    },
+    {
+        "LGA_ID": 308,
+        "LGA_Name": "BWARI",
+        "LGA_Code": 308,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 309,
+        "LGA_Name": "ABUJA MUNICIPAL",
+        "LGA_Code": 309,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 310,
+        "LGA_Name": "GWAGWALADA",
+        "LGA_Code": 310,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 311,
+        "LGA_Name": "ABAJI",
+        "LGA_Code": 311,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 312,
+        "LGA_Name": "KWALI",
+        "LGA_Code": 312,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 313,
+        "LGA_Name": "KUJE",
+        "LGA_Code": 313,
+        "State_ID": 14
+    },
+    {
+        "LGA_ID": 314,
+        "LGA_Name": "KARU",
+        "LGA_Code": 314,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 315,
+        "LGA_Name": "KEFFI",
+        "LGA_Code": 315,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 316,
+        "LGA_Name": "KOKONA",
+        "LGA_Code": 316,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 317,
+        "LGA_Name": "AKWANGA",
+        "LGA_Code": 317,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 318,
+        "LGA_Name": "WAMBA",
+        "LGA_Code": 318,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 319,
+        "LGA_Name": "NASSARAWA EGON",
+        "LGA_Code": 319,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 320,
+        "LGA_Name": "LAFIA",
+        "LGA_Code": 320,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 321,
+        "LGA_Name": "AWE",
+        "LGA_Code": 321,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 322,
+        "LGA_Name": "OBI",
+        "LGA_Code": 322,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 323,
+        "LGA_Name": "KEANA",
+        "LGA_Code": 323,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 324,
+        "LGA_Name": "DOMA",
+        "LGA_Code": 324,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 325,
+        "LGA_Name": "NASSARAWA",
+        "LGA_Code": 325,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 326,
+        "LGA_Name": "TOTO",
+        "LGA_Code": 326,
+        "State_ID": 15
+    },
+    {
+        "LGA_ID": 327,
+        "LGA_Name": "BASSA",
+        "LGA_Code": 327,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 328,
+        "LGA_Name": "JOS NORTH",
+        "LGA_Code": 328,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 329,
+        "LGA_Name": "JOS EAST",
+        "LGA_Code": 329,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 330,
+        "LGA_Name": "JOS SOUTH",
+        "LGA_Code": 330,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 331,
+        "LGA_Name": "RIYOM",
+        "LGA_Code": 331,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 332,
+        "LGA_Name": "BARKIN LADI",
+        "LGA_Code": 332,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 333,
+        "LGA_Name": "MANGU",
+        "LGA_Code": 333,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 334,
+        "LGA_Name": "BOKKOS",
+        "LGA_Code": 334,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 335,
+        "LGA_Name": "QUAANPAN",
+        "LGA_Code": 335,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 336,
+        "LGA_Name": "PANKSHIN",
+        "LGA_Code": 336,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 337,
+        "LGA_Name": "KANKE",
+        "LGA_Code": 337,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 338,
+        "LGA_Name": "KANAM",
+        "LGA_Code": 338,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 339,
+        "LGA_Name": "WASE",
+        "LGA_Code": 339,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 340,
+        "LGA_Name": "LANGTANG NORTH",
+        "LGA_Code": 340,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 341,
+        "LGA_Name": "MIKANG",
+        "LGA_Code": 341,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 342,
+        "LGA_Name": "SHENDAM",
+        "LGA_Code": 342,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 343,
+        "LGA_Name": "LANGTANG SOUTH",
+        "LGA_Code": 343,
+        "State_ID": 16
+    },
+    {
+        "LGA_ID": 344,
+        "LGA_Name": "KARIM-LAMIDO",
+        "LGA_Code": 344,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 345,
+        "LGA_Name": "LAU",
+        "LGA_Code": 345,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 346,
+        "LGA_Name": "ARDO-KOLA",
+        "LGA_Code": 346,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 347,
+        "LGA_Name": "JALINGO",
+        "LGA_Code": 347,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 348,
+        "LGA_Name": "YORRO",
+        "LGA_Code": 348,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 349,
+        "LGA_Name": "ZING",
+        "LGA_Code": 349,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 350,
+        "LGA_Name": "GASSOL",
+        "LGA_Code": 350,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 351,
+        "LGA_Name": "IBI",
+        "LGA_Code": 351,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 352,
+        "LGA_Name": "WUKARI",
+        "LGA_Code": 352,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 353,
+        "LGA_Name": "BALI",
+        "LGA_Code": 353,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 354,
+        "LGA_Name": "GASHAKA",
+        "LGA_Code": 354,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 355,
+        "LGA_Name": "SARDUANA",
+        "LGA_Code": 355,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 356,
+        "LGA_Name": "KURMI",
+        "LGA_Code": 356,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 357,
+        "LGA_Name": "USSA",
+        "LGA_Code": 357,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 358,
+        "LGA_Name": "TAKUM",
+        "LGA_Code": 358,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 359,
+        "LGA_Name": "DONGA",
+        "LGA_Code": 359,
+        "State_ID": 17
+    },
+    {
+        "LGA_ID": 360,
+        "LGA_Name": "AGATU",
+        "LGA_Code": 360,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 361,
+        "LGA_Name": "APA",
+        "LGA_Code": 361,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 362,
+        "LGA_Name": "GWER WEST",
+        "LGA_Code": 362,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 363,
+        "LGA_Name": "MAKURDI",
+        "LGA_Code": 363,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 364,
+        "LGA_Name": "GUMA",
+        "LGA_Code": 364,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 365,
+        "LGA_Name": "LOGO",
+        "LGA_Code": 365,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 366,
+        "LGA_Name": "UKUM",
+        "LGA_Code": 366,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 367,
+        "LGA_Name": "KATSINA ALA",
+        "LGA_Code": 367,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 368,
+        "LGA_Name": "BURUKU",
+        "LGA_Code": 368,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 369,
+        "LGA_Name": "TARKA",
+        "LGA_Code": 369,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 370,
+        "LGA_Name": "GBOKO",
+        "LGA_Code": 370,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 371,
+        "LGA_Name": "GWER",
+        "LGA_Code": 371,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 372,
+        "LGA_Name": "OTUKPO",
+        "LGA_Code": 372,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 373,
+        "LGA_Name": "OHIMINI",
+        "LGA_Code": 373,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 374,
+        "LGA_Name": "OKPOKWU",
+        "LGA_Code": 374,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 375,
+        "LGA_Name": "OGBADIBO",
+        "LGA_Code": 375,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 376,
+        "LGA_Name": "ADO",
+        "LGA_Code": 376,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 377,
+        "LGA_Name": "OBI",
+        "LGA_Code": 377,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 378,
+        "LGA_Name": "OJU",
+        "LGA_Code": 378,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 379,
+        "LGA_Name": "KONSHISHA",
+        "LGA_Code": 379,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 380,
+        "LGA_Name": "USHONG",
+        "LGA_Code": 380,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 381,
+        "LGA_Name": "KWANDE",
+        "LGA_Code": 381,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 382,
+        "LGA_Name": "VANDEIKYA",
+        "LGA_Code": 382,
+        "State_ID": 18
+    },
+    {
+        "LGA_ID": 383,
+        "LGA_Name": "YAGBA WEST",
+        "LGA_Code": 383,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 384,
+        "LGA_Name": "YAGBA EAST",
+        "LGA_Code": 384,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 385,
+        "LGA_Name": "MOPAMURO",
+        "LGA_Code": 385,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 386,
+        "LGA_Name": "IJUMU",
+        "LGA_Code": 386,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 387,
+        "LGA_Name": "KABBA/BUNU",
+        "LGA_Code": 387,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 388,
+        "LGA_Name": "OKEHI",
+        "LGA_Code": 388,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 389,
+        "LGA_Name": "OGORI MAGOGO",
+        "LGA_Code": 389,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 390,
+        "LGA_Name": "OKENE",
+        "LGA_Code": 390,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 391,
+        "LGA_Name": "ADAVI",
+        "LGA_Code": 391,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 392,
+        "LGA_Name": "AJAOKUTA",
+        "LGA_Code": 392,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 393,
+        "LGA_Name": "LOKOJA",
+        "LGA_Code": 393,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 394,
+        "LGA_Name": "KOGI",
+        "LGA_Code": 394,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 395,
+        "LGA_Name": "BASSA",
+        "LGA_Code": 395,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 396,
+        "LGA_Name": "DEKINA",
+        "LGA_Code": 396,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 397,
+        "LGA_Name": "OMALA",
+        "LGA_Code": 397,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 398,
+        "LGA_Name": "ANKPA",
+        "LGA_Code": 398,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 399,
+        "LGA_Name": "OLAMABORO",
+        "LGA_Code": 399,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 400,
+        "LGA_Name": "OFU",
+        "LGA_Code": 400,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 401,
+        "LGA_Name": "IGALAMELA",
+        "LGA_Code": 401,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 402,
+        "LGA_Name": "IDAH",
+        "LGA_Code": 402,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 403,
+        "LGA_Name": "IBAJI",
+        "LGA_Code": 403,
+        "State_ID": 19
+    },
+    {
+        "LGA_ID": 404,
+        "LGA_Name": "BARUTEN",
+        "LGA_Code": 404,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 405,
+        "LGA_Name": "KAIAMA",
+        "LGA_Code": 405,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 406,
+        "LGA_Name": "MORO",
+        "LGA_Code": 406,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 407,
+        "LGA_Name": "EDU",
+        "LGA_Code": 407,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 408,
+        "LGA_Name": "PATIGI",
+        "LGA_Code": 408,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 409,
+        "LGA_Name": "IFELODUN",
+        "LGA_Code": 409,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 410,
+        "LGA_Name": "ILORIN SOUTH",
+        "LGA_Code": 410,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 411,
+        "LGA_Name": "ILORIN EAST",
+        "LGA_Code": 411,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 412,
+        "LGA_Name": "ILORIN WEST",
+        "LGA_Code": 412,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 413,
+        "LGA_Name": "ASA",
+        "LGA_Code": 413,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 414,
+        "LGA_Name": "OYUN",
+        "LGA_Code": 414,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 415,
+        "LGA_Name": "OFFA",
+        "LGA_Code": 415,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 416,
+        "LGA_Name": "IREPODUN",
+        "LGA_Code": 416,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 417,
+        "LGA_Name": "ISIN",
+        "LGA_Code": 417,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 418,
+        "LGA_Name": "OKE-ERO",
+        "LGA_Code": 418,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 419,
+        "LGA_Name": "EKITI",
+        "LGA_Code": 419,
+        "State_ID": 20
+    },
+    {
+        "LGA_ID": 420,
+        "LGA_Name": "IREPO",
+        "LGA_Code": 420,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 421,
+        "LGA_Name": "OLORUNSOGO",
+        "LGA_Code": 421,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 422,
+        "LGA_Name": "OORELOPE",
+        "LGA_Code": 422,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 423,
+        "LGA_Name": "SAKI EAST",
+        "LGA_Code": 423,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 424,
+        "LGA_Name": "SAKI WEST",
+        "LGA_Code": 424,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 425,
+        "LGA_Name": "ATIBO",
+        "LGA_Code": 425,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 426,
+        "LGA_Name": "ITESIWAJU",
+        "LGA_Code": 426,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 427,
+        "LGA_Name": "ATIGBA",
+        "LGA_Code": 427,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 428,
+        "LGA_Name": "ORIIRE",
+        "LGA_Code": 428,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 429,
+        "LGA_Name": "OGBOMOSHO NORTH",
+        "LGA_Code": 429,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 430,
+        "LGA_Name": "SURULERE",
+        "LGA_Code": 430,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 431,
+        "LGA_Name": "OGBOMOSHO SOUTH",
+        "LGA_Code": 431,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 432,
+        "LGA_Name": "OGO-OLUWA",
+        "LGA_Code": 432,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 433,
+        "LGA_Name": "OYO EAST",
+        "LGA_Code": 433,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 434,
+        "LGA_Name": "OYO WEST",
+        "LGA_Code": 434,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 435,
+        "LGA_Name": "ISEYIN",
+        "LGA_Code": 435,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 436,
+        "LGA_Name": "KAJOLA",
+        "LGA_Code": 436,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 437,
+        "LGA_Name": "IWAJOWA",
+        "LGA_Code": 437,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 438,
+        "LGA_Name": "IBARAPA  NORTH",
+        "LGA_Code": 438,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 439,
+        "LGA_Name": "IBARAPA  CENTRAL",
+        "LGA_Code": 439,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 440,
+        "LGA_Name": "IBARAPA  EAST",
+        "LGA_Code": 440,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 441,
+        "LGA_Name": "IDO",
+        "LGA_Code": 441,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 442,
+        "LGA_Name": "AFIJIO",
+        "LGA_Code": 442,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 443,
+        "LGA_Name": "AKINYELE",
+        "LGA_Code": 443,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 444,
+        "LGA_Name": "LAGELU",
+        "LGA_Code": 444,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 445,
+        "LGA_Name": "IBADAN NORTH",
+        "LGA_Code": 445,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 446,
+        "LGA_Name": "IBADAN  NORTH WEST",
+        "LGA_Code": 446,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 447,
+        "LGA_Name": "IBADAN  SOUTH WEST",
+        "LGA_Code": 447,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 448,
+        "LGA_Name": "IBADAN  SOUTH EAST",
+        "LGA_Code": 448,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 449,
+        "LGA_Name": "IBADAN  NORTH EAST",
+        "LGA_Code": 449,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 450,
+        "LGA_Name": "EGBEDA",
+        "LGA_Code": 450,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 451,
+        "LGA_Name": "ONA-ARA",
+        "LGA_Code": 451,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 452,
+        "LGA_Name": "OLUYOLE",
+        "LGA_Code": 452,
+        "State_ID": 21
+    },
+    {
+        "LGA_ID": 453,
+        "LGA_Name": "IFEDAYO",
+        "LGA_Code": 453,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 454,
+        "LGA_Name": "ILA",
+        "LGA_Code": 454,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 455,
+        "LGA_Name": "BOLUWADURO",
+        "LGA_Code": 455,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 456,
+        "LGA_Name": "ODO OTIN",
+        "LGA_Code": 456,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 457,
+        "LGA_Name": "IFELODUN",
+        "LGA_Code": 457,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 458,
+        "LGA_Name": "OLORUNDA",
+        "LGA_Code": 458,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 459,
+        "LGA_Name": "IREPODUN",
+        "LGA_Code": 459,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 460,
+        "LGA_Name": "OROLU",
+        "LGA_Code": 460,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 461,
+        "LGA_Name": "EGBEDORE",
+        "LGA_Code": 461,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 462,
+        "LGA_Name": "OSOGBO",
+        "LGA_Code": 462,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 463,
+        "LGA_Name": "BORIPE",
+        "LGA_Code": 463,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 464,
+        "LGA_Name": "OBOKUN",
+        "LGA_Code": 464,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 465,
+        "LGA_Name": "ORIADE",
+        "LGA_Code": 465,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 466,
+        "LGA_Name": "ILESHA EAST",
+        "LGA_Code": 466,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 467,
+        "LGA_Name": "ATAKUNMOSA WEST",
+        "LGA_Code": 467,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 468,
+        "LGA_Name": "ILESHA WEST",
+        "LGA_Code": 468,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 469,
+        "LGA_Name": "EDE NORTH",
+        "LGA_Code": 469,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 470,
+        "LGA_Name": "EDE SOUTH",
+        "LGA_Code": 470,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 471,
+        "LGA_Name": "EJIGBO",
+        "LGA_Code": 471,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 472,
+        "LGA_Name": "OLA OLUWA",
+        "LGA_Code": 472,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 473,
+        "LGA_Name": "IWO",
+        "LGA_Code": 473,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 474,
+        "LGA_Name": "AYEDIRE",
+        "LGA_Code": 474,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 475,
+        "LGA_Name": "IREWOLE",
+        "LGA_Code": 475,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 476,
+        "LGA_Name": "ISOKAN",
+        "LGA_Code": 476,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 477,
+        "LGA_Name": "AYEDARE",
+        "LGA_Code": 477,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 478,
+        "LGA_Name": "IFE NORTH",
+        "LGA_Code": 478,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 479,
+        "LGA_Name": "IFE CENTRAL",
+        "LGA_Code": 479,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 480,
+        "LGA_Name": "IFE EAST",
+        "LGA_Code": 480,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 481,
+        "LGA_Name": "ATAKUNMOSA EAST",
+        "LGA_Code": 481,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 482,
+        "LGA_Name": "IFE SOUTH",
+        "LGA_Code": 482,
+        "State_ID": 22
+    },
+    {
+        "LGA_ID": 483,
+        "LGA_Name": "MOBA",
+        "LGA_Code": 483,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 484,
+        "LGA_Name": "ILEJEMEJE",
+        "LGA_Code": 484,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 485,
+        "LGA_Name": "OYE",
+        "LGA_Code": 485,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 486,
+        "LGA_Name": "IKOLE",
+        "LGA_Code": 486,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 487,
+        "LGA_Name": "EKITI  EAST",
+        "LGA_Code": 487,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 488,
+        "LGA_Name": "GBOYIN",
+        "LGA_Code": 488,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 489,
+        "LGA_Name": "ADO EKITI",
+        "LGA_Code": 489,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 490,
+        "LGA_Name": "IREPODUN/IFELODUN",
+        "LGA_Code": 490,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 491,
+        "LGA_Name": "IDO-OSI",
+        "LGA_Code": 491,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 492,
+        "LGA_Name": "IJERO",
+        "LGA_Code": 492,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 493,
+        "LGA_Name": "EKITI WEST",
+        "LGA_Code": 493,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 494,
+        "LGA_Name": "EFON",
+        "LGA_Code": 494,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 495,
+        "LGA_Name": "EKITI SOUTH WEST",
+        "LGA_Code": 495,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 496,
+        "LGA_Name": "IKERE",
+        "LGA_Code": 496,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 497,
+        "LGA_Name": "ISE-ORUN",
+        "LGA_Code": 497,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 498,
+        "LGA_Name": "EMURE",
+        "LGA_Code": 498,
+        "State_ID": 23
+    },
+    {
+        "LGA_ID": 499,
+        "LGA_Name": "AKOKO  NW",
+        "LGA_Code": 499,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 500,
+        "LGA_Name": "AKOKO  NE",
+        "LGA_Code": 500,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 501,
+        "LGA_Name": "AKOKO  SE",
+        "LGA_Code": 501,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 502,
+        "LGA_Name": "AKOKO  SW",
+        "LGA_Code": 502,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 503,
+        "LGA_Name": "OSE",
+        "LGA_Code": 503,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 504,
+        "LGA_Name": "OWO",
+        "LGA_Code": 504,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 505,
+        "LGA_Name": "AKURE  NORTH",
+        "LGA_Code": 505,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 506,
+        "LGA_Name": "AKURE SOUTH",
+        "LGA_Code": 506,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 507,
+        "LGA_Name": "IFEDORE",
+        "LGA_Code": 507,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 508,
+        "LGA_Name": "AKI ILE OLUJI/OKEIGB",
+        "LGA_Code": 508,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 509,
+        "LGA_Name": "ONDO  WEST",
+        "LGA_Code": 509,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 510,
+        "LGA_Name": "ONDO  EAST",
+        "LGA_Code": 510,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 511,
+        "LGA_Name": "IDANRE",
+        "LGA_Code": 511,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 512,
+        "LGA_Name": "ODIGBO",
+        "LGA_Code": 512,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 513,
+        "LGA_Name": "OKITIPUPA",
+        "LGA_Code": 513,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 514,
+        "LGA_Name": "IRELE",
+        "LGA_Code": 514,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 515,
+        "LGA_Name": "ESE ODO",
+        "LGA_Code": 515,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 516,
+        "LGA_Name": "ILAJE",
+        "LGA_Code": 516,
+        "State_ID": 24
+    },
+    {
+        "LGA_ID": 517,
+        "LGA_Name": "AKOKO-EDO",
+        "LGA_Code": 517,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 518,
+        "LGA_Name": "ETSAKO    EAST",
+        "LGA_Code": 518,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 519,
+        "LGA_Name": "ETSAKO  CENTRAL",
+        "LGA_Code": 519,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 520,
+        "LGA_Name": "ETSAKO  WEST",
+        "LGA_Code": 520,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 521,
+        "LGA_Name": "OWAN    EAST",
+        "LGA_Code": 521,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 522,
+        "LGA_Name": "OWAN    WEST",
+        "LGA_Code": 522,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 523,
+        "LGA_Name": "ESAN     WEST",
+        "LGA_Code": 523,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 524,
+        "LGA_Name": "ESAN     CENTRAL",
+        "LGA_Code": 524,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 525,
+        "LGA_Name": "ESAN     NORTH   EAS",
+        "LGA_Code": 525,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 526,
+        "LGA_Name": "ESAN     SOUTH    EA",
+        "LGA_Code": 526,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 527,
+        "LGA_Name": "IGUEBEN",
+        "LGA_Code": 527,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 528,
+        "LGA_Name": "UHUMWODE",
+        "LGA_Code": 528,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 529,
+        "LGA_Name": "OVIA NORTH EAST",
+        "LGA_Code": 529,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 530,
+        "LGA_Name": "OVIA NORTH WEST",
+        "LGA_Code": 530,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 531,
+        "LGA_Name": "EGOR",
+        "LGA_Code": 531,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 532,
+        "LGA_Name": "OREDO",
+        "LGA_Code": 532,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 533,
+        "LGA_Name": "IKPOBA-OKHA",
+        "LGA_Code": 533,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 534,
+        "LGA_Name": "ORHIONMWON",
+        "LGA_Code": 534,
+        "State_ID": 25
+    },
+    {
+        "LGA_ID": 535,
+        "LGA_Name": "ANAMBRA  WEST",
+        "LGA_Code": 535,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 536,
+        "LGA_Name": "AYAMELUM",
+        "LGA_Code": 536,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 537,
+        "LGA_Name": "AWKA NORTH",
+        "LGA_Code": 537,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 538,
+        "LGA_Name": "ANAMBRA EAST",
+        "LGA_Code": 538,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 539,
+        "LGA_Name": "OYI",
+        "LGA_Code": 539,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 540,
+        "LGA_Name": "DUNUKOFIA",
+        "LGA_Code": 540,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 541,
+        "LGA_Name": "NJIKOKA",
+        "LGA_Code": 541,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 542,
+        "LGA_Name": "AWKA SOUTH",
+        "LGA_Code": 542,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 543,
+        "LGA_Name": "ORUMBA NORTH",
+        "LGA_Code": 543,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 544,
+        "LGA_Name": "ANAOCHA",
+        "LGA_Code": 544,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 545,
+        "LGA_Name": "IDEMILI NORTH",
+        "LGA_Code": 545,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 546,
+        "LGA_Name": "ONITSHA NORTH",
+        "LGA_Code": 546,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 547,
+        "LGA_Name": "ONITSHA SOUTH",
+        "LGA_Code": 547,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 548,
+        "LGA_Name": "OGBARU",
+        "LGA_Code": 548,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 549,
+        "LGA_Name": "IDEMILI SOUTH",
+        "LGA_Code": 549,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 550,
+        "LGA_Name": "NNEWI  NORTH",
+        "LGA_Code": 550,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 551,
+        "LGA_Name": "EKWSIGO",
+        "LGA_Code": 551,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 552,
+        "LGA_Name": "IHIALA",
+        "LGA_Code": 552,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 553,
+        "LGA_Name": "NNEWI SOUTH",
+        "LGA_Code": 553,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 554,
+        "LGA_Name": "AGUATA",
+        "LGA_Code": 554,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 555,
+        "LGA_Name": "ORUMBA SOUTH",
+        "LGA_Code": 555,
+        "State_ID": 26
+    },
+    {
+        "LGA_ID": 556,
+        "LGA_Name": "IGBOEZE NORTH",
+        "LGA_Code": 556,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 557,
+        "LGA_Name": "IGBO-EZE SOUTH",
+        "LGA_Code": 557,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 558,
+        "LGA_Name": "UDENU",
+        "LGA_Code": 558,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 559,
+        "LGA_Name": "ISI-UZO",
+        "LGA_Code": 559,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 560,
+        "LGA_Name": "IGBO ETITI",
+        "LGA_Code": 560,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 561,
+        "LGA_Name": "NSUKKA",
+        "LGA_Code": 561,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 562,
+        "LGA_Name": "UZO-UWANI",
+        "LGA_Code": 562,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 563,
+        "LGA_Name": "EZE-AGU",
+        "LGA_Code": 563,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 564,
+        "LGA_Name": "UDI",
+        "LGA_Code": 564,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 565,
+        "LGA_Name": "ENUGU-EAST",
+        "LGA_Code": 565,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 566,
+        "LGA_Name": "NKANU EAST",
+        "LGA_Code": 566,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 567,
+        "LGA_Name": "ENUGU  NORTH",
+        "LGA_Code": 567,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 568,
+        "LGA_Name": "ENUGU SOUTH",
+        "LGA_Code": 568,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 569,
+        "LGA_Name": "NKANU  WEST",
+        "LGA_Code": 569,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 570,
+        "LGA_Name": "ANINRI",
+        "LGA_Code": 570,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 571,
+        "LGA_Name": "AWGU",
+        "LGA_Code": 571,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 572,
+        "LGA_Name": "OJI  RIVER",
+        "LGA_Code": 572,
+        "State_ID": 27
+    },
+    {
+        "LGA_ID": 573,
+        "LGA_Name": "ISHIELU",
+        "LGA_Code": 573,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 574,
+        "LGA_Name": "OHAUKWU",
+        "LGA_Code": 574,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 575,
+        "LGA_Name": "EBONYI",
+        "LGA_Code": 575,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 576,
+        "LGA_Name": "IZZI",
+        "LGA_Code": 576,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 577,
+        "LGA_Name": "ABAKALIKI",
+        "LGA_Code": 577,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 578,
+        "LGA_Name": "EZZA  NORTH",
+        "LGA_Code": 578,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 579,
+        "LGA_Name": "EZZA  SOUTH",
+        "LGA_Code": 579,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 580,
+        "LGA_Name": "IKWO",
+        "LGA_Code": 580,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 581,
+        "LGA_Name": "ONICHA",
+        "LGA_Code": 581,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 582,
+        "LGA_Name": "OHAOZARA",
+        "LGA_Code": 582,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 583,
+        "LGA_Name": "AFIKPO  NORTH",
+        "LGA_Code": 583,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 584,
+        "LGA_Name": "AFIKPO  SOUTH",
+        "LGA_Code": 584,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 585,
+        "LGA_Name": "IVO",
+        "LGA_Code": 585,
+        "State_ID": 28
+    },
+    {
+        "LGA_ID": 586,
+        "LGA_Name": "YALLA",
+        "LGA_Code": 586,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 587,
+        "LGA_Name": "BEKWARRA",
+        "LGA_Code": 587,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 588,
+        "LGA_Name": "OGOJA",
+        "LGA_Code": 588,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 589,
+        "LGA_Name": "OBUDU",
+        "LGA_Code": 589,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 590,
+        "LGA_Name": "OBANLIKU",
+        "LGA_Code": 590,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 591,
+        "LGA_Name": "BOKI",
+        "LGA_Code": 591,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 592,
+        "LGA_Name": "ETUNG",
+        "LGA_Code": 592,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 593,
+        "LGA_Name": "IKOM",
+        "LGA_Code": 593,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 594,
+        "LGA_Name": "OBUBRA",
+        "LGA_Code": 594,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 595,
+        "LGA_Name": "YAKURR",
+        "LGA_Code": 595,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 596,
+        "LGA_Name": "ABI",
+        "LGA_Code": 596,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 597,
+        "LGA_Name": "BIASE",
+        "LGA_Code": 597,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 598,
+        "LGA_Name": "AKAMKPA",
+        "LGA_Code": 598,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 599,
+        "LGA_Name": "ODUKPANI",
+        "LGA_Code": 599,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 600,
+        "LGA_Name": "CALABAR  SOUTH",
+        "LGA_Code": 600,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 601,
+        "LGA_Name": "CALABAR  MUNICIPAL",
+        "LGA_Code": 601,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 602,
+        "LGA_Name": "AKPABUYO",
+        "LGA_Code": 602,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 603,
+        "LGA_Name": "BAKASSI",
+        "LGA_Code": 603,
+        "State_ID": 29
+    },
+    {
+        "LGA_ID": 604,
+        "LGA_Name": "INI",
+        "LGA_Code": 604,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 605,
+        "LGA_Name": "OBOT-AKARA",
+        "LGA_Code": 605,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 606,
+        "LGA_Name": "IKOT EKPENE",
+        "LGA_Code": 606,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 607,
+        "LGA_Name": "IKONO",
+        "LGA_Code": 607,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 608,
+        "LGA_Name": "IBIONO IBOM",
+        "LGA_Code": 608,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 609,
+        "LGA_Name": "ITU",
+        "LGA_Code": 609,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 610,
+        "LGA_Name": "URUAN",
+        "LGA_Code": 610,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 611,
+        "LGA_Name": "UYO",
+        "LGA_Code": 611,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 612,
+        "LGA_Name": "ABAK",
+        "LGA_Code": 612,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 613,
+        "LGA_Name": "ESSIEN-UDIM",
+        "LGA_Code": 613,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 614,
+        "LGA_Name": "IKA",
+        "LGA_Code": 614,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 615,
+        "LGA_Name": "ETIM-EKPO",
+        "LGA_Code": 615,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 616,
+        "LGA_Name": "UKANAFUN",
+        "LGA_Code": 616,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 617,
+        "LGA_Name": "ORUK-ANAM",
+        "LGA_Code": 617,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 618,
+        "LGA_Name": "MPKAT-ENIN",
+        "LGA_Code": 618,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 619,
+        "LGA_Name": "ETINAN",
+        "LGA_Code": 619,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 620,
+        "LGA_Name": "NSIT IBOM",
+        "LGA_Code": 620,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 621,
+        "LGA_Name": "IBESIKPO SUTAN",
+        "LGA_Code": 621,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 622,
+        "LGA_Name": "NSIT-ATAI",
+        "LGA_Code": 622,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 623,
+        "LGA_Name": "OKOBO",
+        "LGA_Code": 623,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 624,
+        "LGA_Name": "ORON",
+        "LGA_Code": 624,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 625,
+        "LGA_Name": "UDUNG-UKO",
+        "LGA_Code": 625,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 626,
+        "LGA_Name": "MBO",
+        "LGA_Code": 626,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 627,
+        "LGA_Name": "RUEOFFONG-ORUKO",
+        "LGA_Code": 627,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 628,
+        "LGA_Name": "ESIT EKET",
+        "LGA_Code": 628,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 629,
+        "LGA_Name": "NSIT  UBIUM",
+        "LGA_Code": 629,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 630,
+        "LGA_Name": "EKET",
+        "LGA_Code": 630,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 631,
+        "LGA_Name": "ONNA",
+        "LGA_Code": 631,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 632,
+        "LGA_Name": "IBENO",
+        "LGA_Code": 632,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 633,
+        "LGA_Name": "EASTERN OBOLO",
+        "LGA_Code": 633,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 634,
+        "LGA_Name": "IKOT ABASI",
+        "LGA_Code": 634,
+        "State_ID": 30
+    },
+    {
+        "LGA_ID": 635,
+        "LGA_Name": "UMUNNEOCHI",
+        "LGA_Code": 635,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 636,
+        "LGA_Name": "ISIUKWUATO",
+        "LGA_Code": 636,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 637,
+        "LGA_Name": "BENDE",
+        "LGA_Code": 637,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 638,
+        "LGA_Name": "OHAFIA",
+        "LGA_Code": 638,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 639,
+        "LGA_Name": "AROCHUKWU",
+        "LGA_Code": 639,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 640,
+        "LGA_Name": "UMUAHIA NORTH",
+        "LGA_Code": 640,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 641,
+        "LGA_Name": "UMUAHIA  SOUTH",
+        "LGA_Code": 641,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 642,
+        "LGA_Name": "IKWUANO",
+        "LGA_Code": 642,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 643,
+        "LGA_Name": "ISIALANGWA NORTH",
+        "LGA_Code": 643,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 644,
+        "LGA_Name": "ISIALANGWA SOUTH",
+        "LGA_Code": 644,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 645,
+        "LGA_Name": "OBINGWA",
+        "LGA_Code": 645,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 646,
+        "LGA_Name": "ABA  NORTH",
+        "LGA_Code": 646,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 647,
+        "LGA_Name": "OSISIOMA",
+        "LGA_Code": 647,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 648,
+        "LGA_Name": "ABA SOUTH",
+        "LGA_Code": 648,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 649,
+        "LGA_Name": "UGWUNAGBO",
+        "LGA_Code": 649,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 650,
+        "LGA_Name": "UKWA EAST",
+        "LGA_Code": 650,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 651,
+        "LGA_Name": "UKWA WEST",
+        "LGA_Code": 651,
+        "State_ID": 31
+    },
+    {
+        "LGA_ID": 652,
+        "LGA_Name": "IDEATO NORTH",
+        "LGA_Code": 652,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 653,
+        "LGA_Name": "OKIGWE",
+        "LGA_Code": 653,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 654,
+        "LGA_Name": "ONMUMO",
+        "LGA_Code": 654,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 655,
+        "LGA_Name": "IDEATO SOUTH",
+        "LGA_Code": 655,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 656,
+        "LGA_Name": "ORLU",
+        "LGA_Code": 656,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 657,
+        "LGA_Name": "ORSU",
+        "LGA_Code": 657,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 658,
+        "LGA_Name": "ORU EAST",
+        "LGA_Code": 658,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 659,
+        "LGA_Name": "ORU WEST",
+        "LGA_Code": 659,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 660,
+        "LGA_Name": "OGUTA",
+        "LGA_Code": 660,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 661,
+        "LGA_Name": "MBAITOLI",
+        "LGA_Code": 661,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 662,
+        "LGA_Name": "NJABA",
+        "LGA_Code": 662,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 663,
+        "LGA_Name": "ISU",
+        "LGA_Code": 663,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 664,
+        "LGA_Name": "NKWERRE",
+        "LGA_Code": 664,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 665,
+        "LGA_Name": "NWANGELE",
+        "LGA_Code": 665,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 666,
+        "LGA_Name": "ISIALA-MBANO",
+        "LGA_Code": 666,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 667,
+        "LGA_Name": "EHIME MBANO",
+        "LGA_Code": 667,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 668,
+        "LGA_Name": "IHITTE-UBOMA",
+        "LGA_Code": 668,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 669,
+        "LGA_Name": "OBOWO",
+        "LGA_Code": 669,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 670,
+        "LGA_Name": "EZINIHITTE-MBAISE",
+        "LGA_Code": 670,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 671,
+        "LGA_Name": "AHIAZU-MBAISE",
+        "LGA_Code": 671,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 672,
+        "LGA_Name": "ABOH-MBAISE",
+        "LGA_Code": 672,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 673,
+        "LGA_Name": "IKEDURU",
+        "LGA_Code": 673,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 674,
+        "LGA_Name": "OWERRI  NORTH",
+        "LGA_Code": 674,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 675,
+        "LGA_Name": "OWERRI MUNICIPAL",
+        "LGA_Code": 675,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 676,
+        "LGA_Name": "OWERRI WEST",
+        "LGA_Code": 676,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 677,
+        "LGA_Name": "OHAJI/EGBEMA",
+        "LGA_Code": 677,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 678,
+        "LGA_Name": "NGOR-OKPALA",
+        "LGA_Code": 678,
+        "State_ID": 32
+    },
+    {
+        "LGA_ID": 679,
+        "LGA_Name": "OGBA/EGBEMA/NDONI",
+        "LGA_Code": 679,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 680,
+        "LGA_Name": "AHOADA EAST",
+        "LGA_Code": 680,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 681,
+        "LGA_Name": "AHOADA WEST",
+        "LGA_Code": 681,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 682,
+        "LGA_Name": "ABUA/ODUAL",
+        "LGA_Code": 682,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 683,
+        "LGA_Name": "AKUKU TORU",
+        "LGA_Code": 683,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 684,
+        "LGA_Name": "DEGEMA",
+        "LGA_Code": 684,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 685,
+        "LGA_Name": "ASARI TORU",
+        "LGA_Code": 685,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 686,
+        "LGA_Name": "EMOHUA",
+        "LGA_Code": 686,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 687,
+        "LGA_Name": "IKWERRE",
+        "LGA_Code": 687,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 688,
+        "LGA_Name": "ETCHE",
+        "LGA_Code": 688,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 689,
+        "LGA_Name": "OMUMA",
+        "LGA_Code": 689,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 690,
+        "LGA_Name": "OBIO/AKPOR",
+        "LGA_Code": 690,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 691,
+        "LGA_Name": "PORT HARCOURT",
+        "LGA_Code": 691,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 692,
+        "LGA_Name": "OKRIKA",
+        "LGA_Code": 692,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 693,
+        "LGA_Name": "ELEME",
+        "LGA_Code": 693,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 694,
+        "LGA_Name": "OYIGBO",
+        "LGA_Code": 694,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 695,
+        "LGA_Name": "KHANA",
+        "LGA_Code": 695,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 696,
+        "LGA_Name": "GOKANA",
+        "LGA_Code": 696,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 697,
+        "LGA_Name": "TAI",
+        "LGA_Code": 697,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 698,
+        "LGA_Name": "OGU/BOLO",
+        "LGA_Code": 698,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 699,
+        "LGA_Name": "BONNY",
+        "LGA_Code": 699,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 700,
+        "LGA_Name": "ANDONI",
+        "LGA_Code": 700,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 701,
+        "LGA_Name": "OPOBO/NKORO",
+        "LGA_Code": 701,
+        "State_ID": 33
+    },
+    {
+        "LGA_ID": 702,
+        "LGA_Name": "EKEREMOR",
+        "LGA_Code": 702,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 703,
+        "LGA_Name": "SAGBAMA",
+        "LGA_Code": 703,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 704,
+        "LGA_Name": "KOLOKUMAMA/OPOK",
+        "LGA_Code": 704,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 705,
+        "LGA_Name": "YENAGOA",
+        "LGA_Code": 705,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 706,
+        "LGA_Name": "OGBIA",
+        "LGA_Code": 706,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 707,
+        "LGA_Name": "SOUTHERN IJAW",
+        "LGA_Code": 707,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 708,
+        "LGA_Name": "BRASS",
+        "LGA_Code": 708,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 709,
+        "LGA_Name": "NEMBE",
+        "LGA_Code": 709,
+        "State_ID": 34
+    },
+    {
+        "LGA_ID": 710,
+        "LGA_Name": "IKA SOUTH",
+        "LGA_Code": 710,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 711,
+        "LGA_Name": "IKA NORTH EAST",
+        "LGA_Code": 711,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 712,
+        "LGA_Name": "ANIOCHA NORTH",
+        "LGA_Code": 712,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 713,
+        "LGA_Name": "OSHIMILI NORTH",
+        "LGA_Code": 713,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 714,
+        "LGA_Name": "ANIOCHA SOUTH",
+        "LGA_Code": 714,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 715,
+        "LGA_Name": "OSHIMILI SOUTH",
+        "LGA_Code": 715,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 716,
+        "LGA_Name": "NDOKWA EAST",
+        "LGA_Code": 716,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 717,
+        "LGA_Name": "NDOKWA WEST",
+        "LGA_Code": 717,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 718,
+        "LGA_Name": "UKWUANI",
+        "LGA_Code": 718,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 719,
+        "LGA_Name": "UGHELLI NORTH",
+        "LGA_Code": 719,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 720,
+        "LGA_Name": "ETHIOPE EAST",
+        "LGA_Code": 720,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 721,
+        "LGA_Name": "ISOKO NORTH",
+        "LGA_Code": 721,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 722,
+        "LGA_Name": "ISOKO SOUTH",
+        "LGA_Code": 722,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 723,
+        "LGA_Name": "PATANI",
+        "LGA_Code": 723,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 724,
+        "LGA_Name": "UGHELLI SOUTH",
+        "LGA_Code": 724,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 725,
+        "LGA_Name": "UVWIE",
+        "LGA_Code": 725,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 726,
+        "LGA_Name": "OKPE",
+        "LGA_Code": 726,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 727,
+        "LGA_Name": "ETHIOPE WEST",
+        "LGA_Code": 727,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 728,
+        "LGA_Name": "SAPELE",
+        "LGA_Code": 728,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 729,
+        "LGA_Name": "WARRI NORTH",
+        "LGA_Code": 729,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 730,
+        "LGA_Name": "WARRI SOUTH WEST",
+        "LGA_Code": 730,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 731,
+        "LGA_Name": "WARRI SOUTH",
+        "LGA_Code": 731,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 732,
+        "LGA_Name": "UDU",
+        "LGA_Code": 732,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 733,
+        "LGA_Name": "BURUTU",
+        "LGA_Code": 733,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 734,
+        "LGA_Name": "BOMADI",
+        "LGA_Code": 734,
+        "State_ID": 35
+    },
+    {
+        "LGA_ID": 735,
+        "LGA_Name": "BADAGRY",
+        "LGA_Code": 735,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 736,
+        "LGA_Name": "OJO",
+        "LGA_Code": 736,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 737,
+        "LGA_Name": "AMUWO ODOFIN",
+        "LGA_Code": 737,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 738,
+        "LGA_Name": "ALIMOSHO",
+        "LGA_Code": 738,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 739,
+        "LGA_Name": "AGEGE",
+        "LGA_Code": 739,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 740,
+        "LGA_Name": "IFAKO-IJAIYE",
+        "LGA_Code": 740,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 741,
+        "LGA_Name": "IKEJA",
+        "LGA_Code": 741,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 742,
+        "LGA_Name": "OSHODI",
+        "LGA_Code": 742,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 743,
+        "LGA_Name": "MUSHIN",
+        "LGA_Code": 743,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 744,
+        "LGA_Name": "SURULERE",
+        "LGA_Code": 744,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 745,
+        "LGA_Name": "AJEROMI-IFELODUN",
+        "LGA_Code": 745,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 746,
+        "LGA_Name": "APAPA",
+        "LGA_Code": 746,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 747,
+        "LGA_Name": "LAGOS ISLAND",
+        "LGA_Code": 747,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 748,
+        "LGA_Name": "LAGOS MAINLAND",
+        "LGA_Code": 748,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 749,
+        "LGA_Name": "SHOMOLU",
+        "LGA_Code": 749,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 750,
+        "LGA_Name": "KOSOFE",
+        "LGA_Code": 750,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 751,
+        "LGA_Name": "IKORODU",
+        "LGA_Code": 751,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 752,
+        "LGA_Name": "ETI-OSA",
+        "LGA_Code": 752,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 753,
+        "LGA_Name": "IJEBU-LEKKI",
+        "LGA_Code": 753,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 754,
+        "LGA_Name": "EPE",
+        "LGA_Code": 754,
+        "State_ID": 36
+    },
+    {
+        "LGA_ID": 755,
+        "LGA_Name": "IMEKO/AFON",
+        "LGA_Code": 755,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 756,
+        "LGA_Name": "YEWA  NORTH",
+        "LGA_Code": 756,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 757,
+        "LGA_Name": "ABEOKUTA  NORTH",
+        "LGA_Code": 757,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 758,
+        "LGA_Name": "ABEOKUTA   SOUTH",
+        "LGA_Code": 758,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 759,
+        "LGA_Name": "ODEDA",
+        "LGA_Code": 759,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 760,
+        "LGA_Name": "OBAFEMI OWODE",
+        "LGA_Code": 760,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 761,
+        "LGA_Name": "EWEKORO",
+        "LGA_Code": 761,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 762,
+        "LGA_Name": "YEWA  SOUTH",
+        "LGA_Code": 762,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 763,
+        "LGA_Name": "IIPOKIA",
+        "LGA_Code": 763,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 764,
+        "LGA_Name": "ADO-ODO/OJA",
+        "LGA_Code": 764,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 765,
+        "LGA_Name": "IFO",
+        "LGA_Code": 765,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 766,
+        "LGA_Name": "SAGAMU",
+        "LGA_Code": 766,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 767,
+        "LGA_Name": "IKENNE",
+        "LGA_Code": 767,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 768,
+        "LGA_Name": "REMO  NORTH",
+        "LGA_Code": 768,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 769,
+        "LGA_Name": "IJEBU NORTH",
+        "LGA_Code": 769,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 770,
+        "LGA_Name": "ODOGBOLU",
+        "LGA_Code": 770,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 771,
+        "LGA_Name": "IJEBU-ODE",
+        "LGA_Code": 771,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 772,
+        "LGA_Name": "IJEBU NORTH EAST",
+        "LGA_Code": 772,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 773,
+        "LGA_Name": "IJEBU EAST",
+        "LGA_Code": 773,
+        "State_ID": 37
+    },
+    {
+        "LGA_ID": 774,
+        "LGA_Name": "OGUN  WATERSIDE",
+        "LGA_Code": 774,
+        "State_ID": 37
+    }
+]

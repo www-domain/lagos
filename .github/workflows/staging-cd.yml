@@ -1,0 +1,43 @@
+name: Build and Deploy DL SCHOOL [STAGING]
+on:
+  push:
+    branches:
+      - development
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+    steps:
+      - name: Checking out code
+        uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Installing dependencies
+        run: yarn
+      - name: Pull environment variables
+        run: |
+          touch .env
+          aws --region eu-west-3 ssm get-parameter --name drivers-license-staging-env --output text --query Parameter.Value >> .env
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: eu-west-3
+      - name: Building project
+        run: yarn build
+      - name: Configuring AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-3
+
+      - name: Deploying to S3 bucket
+        run: |
+          aws s3 cp --cache-control 'max-age=0, no-cache, must-revalidate, proxy-revalidate, no-store' dist/index.html s3://driving-school-portal-staging
+          aws s3 sync --exclude 'dist/index.html' dist s3://driving-school-portal-staging --delete
+      - name: Invalidating CloudFront cachec
+        run: aws cloudfront create-invalidation --distribution-id EYHR0N5SCLPM --paths '/*'

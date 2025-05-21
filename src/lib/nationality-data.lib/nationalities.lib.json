@@ -1,0 +1,1922 @@
+[
+  {
+    "Country_Code": 2,
+    "Country_Name": "ALGERIA",
+    "Country_Nationality_Name": "ALGERIAN",
+    "Alpfa_2_Code": "DZ",
+    "Alpfa_3_Code": "DZA",
+    "Numeric": "12"
+  },
+  {
+    "Country_Code": 3,
+    "Country_Name": "ANGOLA",
+    "Country_Nationality_Name": "ANGOLAN",
+    "Alpfa_2_Code": "AO",
+    "Alpfa_3_Code": "AGO",
+    "Numeric": "24"
+  },
+  {
+    "Country_Code": 4,
+    "Country_Name": "BENIN",
+    "Country_Nationality_Name": "BENINESE",
+    "Alpfa_2_Code": "BJ",
+    "Alpfa_3_Code": "BEN",
+    "Numeric": "204"
+  },
+  {
+    "Country_Code": 7,
+    "Country_Name": "BOTSWANA",
+    "Country_Nationality_Name": "MOTSWANA",
+    "Alpfa_2_Code": "BF",
+    "Alpfa_3_Code": "BFA",
+    "Numeric": "72"
+  },
+  {
+    "Country_Code": 8,
+    "Country_Name": "BURKINA FASO",
+    "Country_Nationality_Name": "BURKINABE",
+    "Alpfa_2_Code": "BW",
+    "Alpfa_3_Code": "BWA",
+    "Numeric": "100"
+  },
+  {
+    "Country_Code": 9,
+    "Country_Name": "BURUNDI",
+    "Country_Nationality_Name": "BURUNDIAN",
+    "Alpfa_2_Code": "BI",
+    "Alpfa_3_Code": "BDI",
+    "Numeric": "108"
+  },
+  {
+    "Country_Code": 10,
+    "Country_Name": "CAMEROON",
+    "Country_Nationality_Name": "CAMEROONIAN",
+    "Alpfa_2_Code": "CM",
+    "Alpfa_3_Code": "CMR",
+    "Numeric": "120"
+  },
+  {
+    "Country_Code": 11,
+    "Country_Name": "CANARY ISLANDS",
+    "Country_Nationality_Name": "CANARIANS",
+    "Alpfa_2_Code": "IC",
+    "Alpfa_3_Code": "ISO",
+    "Numeric": "34"
+  },
+  {
+    "Country_Code": 12,
+    "Country_Name": "CAPE VERD ISLAND",
+    "Country_Nationality_Name": "CAPE VERDIAN",
+    "Alpfa_2_Code": "CV",
+    "Alpfa_3_Code": "CPV",
+    "Numeric": "132"
+  },
+  {
+    "Country_Code": 13,
+    "Country_Name": "CHAD",
+    "Country_Nationality_Name": "CHADIAN",
+    "Alpfa_2_Code": "TD",
+    "Alpfa_3_Code": "TCD",
+    "Numeric": "148"
+  },
+  {
+    "Country_Code": 14,
+    "Country_Name": "CENTRAL AFRICA REPUBLIC",
+    "Country_Nationality_Name": "CENTRAL AFRICAN",
+    "Alpfa_2_Code": "CF",
+    "Alpfa_3_Code": "CAF",
+    "Numeric": "140"
+  },
+  {
+    "Country_Code": 15,
+    "Country_Name": "COMORO ISLANDS",
+    "Country_Nationality_Name": "COMORIAN",
+    "Alpfa_2_Code": "KM",
+    "Alpfa_3_Code": "COM",
+    "Numeric": "174"
+  },
+  {
+    "Country_Code": 16,
+    "Country_Name": "CONGO BRAZZAVILLE",
+    "Country_Nationality_Name": "CONGOLESE",
+    "Alpfa_2_Code": "CG",
+    "Alpfa_3_Code": "COG",
+    "Numeric": "178"
+  },
+  {
+    "Country_Code": 23,
+    "Country_Name": "DJIBOUTI",
+    "Country_Nationality_Name": "DJIBOUTI",
+    "Alpfa_2_Code": "DJ",
+    "Alpfa_3_Code": "DJI",
+    "Numeric": "262"
+  },
+  {
+    "Country_Code": 25,
+    "Country_Name": "EGYPT",
+    "Country_Nationality_Name": "EGYPTIAN",
+    "Alpfa_2_Code": "EG",
+    "Alpfa_3_Code": "EGY",
+    "Numeric": "818"
+  },
+  {
+    "Country_Code": 26,
+    "Country_Name": "EQUATORIAL GUINEA",
+    "Country_Nationality_Name": "EQUATORIAL GUINEAN",
+    "Alpfa_2_Code": "GQ",
+    "Alpfa_3_Code": "GNQ",
+    "Numeric": "226"
+  },
+  {
+    "Country_Code": 28,
+    "Country_Name": "ETHIOPIA",
+    "Country_Nationality_Name": "ETHIOPIAN",
+    "Alpfa_2_Code": "ET",
+    "Alpfa_3_Code": "ETH",
+    "Numeric": "231"
+  },
+  {
+    "Country_Code": 30,
+    "Country_Name": "GABON",
+    "Country_Nationality_Name": "GABONESE",
+    "Alpfa_2_Code": "GA",
+    "Alpfa_3_Code": "GAB",
+    "Numeric": "266"
+  },
+  {
+    "Country_Code": 32,
+    "Country_Name": "GAMBIA",
+    "Country_Nationality_Name": "GAMBIAN",
+    "Alpfa_2_Code": "GM",
+    "Alpfa_3_Code": "GMB",
+    "Numeric": "270"
+  },
+  {
+    "Country_Code": 33,
+    "Country_Name": "GHANA",
+    "Country_Nationality_Name": "GHANIAN",
+    "Alpfa_2_Code": "GH",
+    "Alpfa_3_Code": "GHA",
+    "Numeric": "288"
+  },
+  {
+    "Country_Code": 35,
+    "Country_Name": "GUINEA",
+    "Country_Nationality_Name": "GUINEAN",
+    "Alpfa_2_Code": "GN",
+    "Alpfa_3_Code": "GIN",
+    "Numeric": "324"
+  },
+  {
+    "Country_Code": 37,
+    "Country_Name": "GUINEA BISSAU",
+    "Country_Nationality_Name": "GUINEAN BISSAUAN",
+    "Alpfa_2_Code": "GW",
+    "Alpfa_3_Code": "GNB",
+    "Numeric": "624"
+  },
+  {
+    "Country_Code": 39,
+    "Country_Name": "COTE DIVOIRE",
+    "Country_Nationality_Name": "iVORIAN",
+    "Alpfa_2_Code": "CI",
+    "Alpfa_3_Code": "CIV",
+    "Numeric": "384"
+  },
+  {
+    "Country_Code": 40,
+    "Country_Name": "KENYA",
+    "Country_Nationality_Name": "KENYAN",
+    "Alpfa_2_Code": "KE",
+    "Alpfa_3_Code": "KEN",
+    "Numeric": "404"
+  },
+  {
+    "Country_Code": 42,
+    "Country_Name": "LESOTHO",
+    "Country_Nationality_Name": "MOSOTHO",
+    "Alpfa_2_Code": "LS",
+    "Alpfa_3_Code": "LSO",
+    "Numeric": "426"
+  },
+  {
+    "Country_Code": 44,
+    "Country_Name": "LIBERIA",
+    "Country_Nationality_Name": "LIBERIAN",
+    "Alpfa_2_Code": "LR",
+    "Alpfa_3_Code": "LBR",
+    "Numeric": "430"
+  },
+  {
+    "Country_Code": 46,
+    "Country_Name": "LIBYA",
+    "Country_Nationality_Name": "LIBYAN",
+    "Alpfa_2_Code": "LY",
+    "Alpfa_3_Code": "LBY",
+    "Numeric": "434"
+  },
+  {
+    "Country_Code": 47,
+    "Country_Name": "MADAGASCAR",
+    "Country_Nationality_Name": "MALGASY",
+    "Alpfa_2_Code": "MG",
+    "Alpfa_3_Code": "MDG",
+    "Numeric": "450"
+  },
+  {
+    "Country_Code": 49,
+    "Country_Name": "MALAWI",
+    "Country_Nationality_Name": "MALAWIAN",
+    "Alpfa_2_Code": "MW",
+    "Alpfa_3_Code": "MWI",
+    "Numeric": "454"
+  },
+  {
+    "Country_Code": 51,
+    "Country_Name": "MALI",
+    "Country_Nationality_Name": "MALIAN",
+    "Alpfa_2_Code": "ML",
+    "Alpfa_3_Code": "MLI",
+    "Numeric": "466"
+  },
+  {
+    "Country_Code": 53,
+    "Country_Name": "MAURITANIA",
+    "Country_Nationality_Name": "MAURITANIAN",
+    "Alpfa_2_Code": "MR",
+    "Alpfa_3_Code": "MRT",
+    "Numeric": "478"
+  },
+  {
+    "Country_Code": 54,
+    "Country_Name": "MAURITIUS",
+    "Country_Nationality_Name": "MAURITIAN",
+    "Alpfa_2_Code": "MU",
+    "Alpfa_3_Code": "MUS",
+    "Numeric": "480"
+  },
+  {
+    "Country_Code": 56,
+    "Country_Name": "MOROCCO",
+    "Country_Nationality_Name": "MOROCCAN",
+    "Alpfa_2_Code": "MA",
+    "Alpfa_3_Code": "MAR",
+    "Numeric": "504"
+  },
+  {
+    "Country_Code": 58,
+    "Country_Name": "MOZAMBIQUE",
+    "Country_Nationality_Name": "MOZAMBICAN",
+    "Alpfa_2_Code": "MZ",
+    "Alpfa_3_Code": "MOZ",
+    "Numeric": "508"
+  },
+  {
+    "Country_Code": 60,
+    "Country_Name": "NAMIBIA",
+    "Country_Nationality_Name": "NAMIBIAN",
+    "Alpfa_2_Code": "NA",
+    "Alpfa_3_Code": "NAM",
+    "Numeric": "516"
+  },
+  {
+    "Country_Code": 61,
+    "Country_Name": "NIGER",
+    "Country_Nationality_Name": "NIGERIEN",
+    "Alpfa_2_Code": "NE",
+    "Alpfa_3_Code": "NER",
+    "Numeric": "562"
+  },
+  {
+    "Country_Code": 62,
+    "Country_Name": "SWAZILAND",
+    "Country_Nationality_Name": "SWAZI",
+    "Alpfa_2_Code": "SZ",
+    "Alpfa_3_Code": "SWZ",
+    "Numeric": "748"
+  },
+  {
+    "Country_Code": 63,
+    "Country_Name": "NIGERIA",
+    "Country_Nationality_Name": "NIGERIAN",
+    "Alpfa_2_Code": "NG",
+    "Alpfa_3_Code": "NGA",
+    "Numeric": "566"
+  },
+  {
+    "Country_Code": 65,
+    "Country_Name": "REUNION",
+    "Country_Nationality_Name": "FRENCH",
+    "Alpfa_2_Code": "RE",
+    "Alpfa_3_Code": "REU",
+    "Numeric": "262"
+  },
+  {
+    "Country_Code": 67,
+    "Country_Name": "RWANDA",
+    "Country_Nationality_Name": "RWANDAN",
+    "Alpfa_2_Code": "RW",
+    "Alpfa_3_Code": "RWA",
+    "Numeric": "646"
+  },
+  {
+    "Country_Code": 68,
+    "Country_Name": "ST. HELENA",
+    "Country_Nationality_Name": "ST. HELENIAN",
+    "Alpfa_2_Code": "SH",
+    "Alpfa_3_Code": "SHN",
+    "Numeric": "654"
+  },
+  {
+    "Country_Code": 70,
+    "Country_Name": "SAO TOME & PRINCIPE",
+    "Country_Nationality_Name": "SAO TOMEAN",
+    "Alpfa_2_Code": "ST",
+    "Alpfa_3_Code": "STP",
+    "Numeric": "678"
+  },
+  {
+    "Country_Code": 72,
+    "Country_Name": "SENEGAL",
+    "Country_Nationality_Name": "SENEGALESE",
+    "Alpfa_2_Code": "SN",
+    "Alpfa_3_Code": "SEN",
+    "Numeric": "686"
+  },
+  {
+    "Country_Code": 74,
+    "Country_Name": "SEYCHELLES",
+    "Country_Nationality_Name": "SEYCHELLOIS",
+    "Alpfa_2_Code": "SC",
+    "Alpfa_3_Code": "SYC",
+    "Numeric": "690"
+  },
+  {
+    "Country_Code": 75,
+    "Country_Name": "SIERRA LEONE",
+    "Country_Nationality_Name": "SIERRA LEONEAN",
+    "Alpfa_2_Code": "SL",
+    "Alpfa_3_Code": "SLE",
+    "Numeric": "694"
+  },
+  {
+    "Country_Code": 77,
+    "Country_Name": "SOMALIA",
+    "Country_Nationality_Name": "SOMALI",
+    "Alpfa_2_Code": "SO",
+    "Alpfa_3_Code": "SOM",
+    "Numeric": "706"
+  },
+  {
+    "Country_Code": 79,
+    "Country_Name": "SOUTH AFRICA",
+    "Country_Nationality_Name": "SOUTH AFRICAN",
+    "Alpfa_2_Code": "ZA",
+    "Alpfa_3_Code": "ZAF",
+    "Numeric": "710"
+  },
+  {
+    "Country_Code": 84,
+    "Country_Name": "TANZANIA",
+    "Country_Nationality_Name": "TANZANIAN",
+    "Alpfa_2_Code": "TZ",
+    "Alpfa_3_Code": "TZA",
+    "Numeric": "834"
+  },
+  {
+    "Country_Code": 86,
+    "Country_Name": "TOGO",
+    "Country_Nationality_Name": "TOGOLESE",
+    "Alpfa_2_Code": "TG",
+    "Alpfa_3_Code": "TGO",
+    "Numeric": "768"
+  },
+  {
+    "Country_Code": 88,
+    "Country_Name": "TUNISIA",
+    "Country_Nationality_Name": "TUNISIAN",
+    "Alpfa_2_Code": "TN",
+    "Alpfa_3_Code": "TUN",
+    "Numeric": "788"
+  },
+  {
+    "Country_Code": 89,
+    "Country_Name": "UGANDA",
+    "Country_Nationality_Name": "UGANDAN",
+    "Alpfa_2_Code": "UG",
+    "Alpfa_3_Code": "UGA",
+    "Numeric": "800"
+  },
+  {
+    "Country_Code": 95,
+    "Country_Name": "ZAMBIA",
+    "Country_Nationality_Name": "ZAMBIAN",
+    "Alpfa_2_Code": "ZM",
+    "Alpfa_3_Code": "ZMB",
+    "Numeric": "894"
+  },
+  {
+    "Country_Code": 96,
+    "Country_Name": "ZIMBABWE",
+    "Country_Nationality_Name": "ZIMBABWEAN",
+    "Alpfa_2_Code": "ZW",
+    "Alpfa_3_Code": "ZWE",
+    "Numeric": "716"
+  },
+  {
+    "Country_Code": 101,
+    "Country_Name": "CANADA",
+    "Country_Nationality_Name": "Canadian",
+    "Alpfa_2_Code": "CA",
+    "Alpfa_3_Code": "CAN",
+    "Numeric": "124"
+  },
+  {
+    "Country_Code": 102,
+    "Country_Name": "UNITED STATES",
+    "Country_Nationality_Name": "American",
+    "Alpfa_2_Code": "US",
+    "Alpfa_3_Code": "USA",
+    "Numeric": "840"
+  },
+  {
+    "Country_Code": 104,
+    "Country_Name": "BELIZE",
+    "Country_Nationality_Name": "Belizean",
+    "Alpfa_2_Code": "BZ",
+    "Alpfa_3_Code": "BLZ",
+    "Numeric": "84"
+  },
+  {
+    "Country_Code": 105,
+    "Country_Name": "COASTA RICA",
+    "Country_Nationality_Name": "Costa Rican",
+    "Alpfa_2_Code": "CR",
+    "Alpfa_3_Code": "CRI",
+    "Numeric": "188"
+  },
+  {
+    "Country_Code": 106,
+    "Country_Name": "EL SALVADOR",
+    "Country_Nationality_Name": "Salvadoran",
+    "Alpfa_2_Code": "SV",
+    "Alpfa_3_Code": "SLV",
+    "Numeric": "222"
+  },
+  {
+    "Country_Code": 107,
+    "Country_Name": "GUATEMALA",
+    "Country_Nationality_Name": "Guatemalan",
+    "Alpfa_2_Code": "GT",
+    "Alpfa_3_Code": "GTM",
+    "Numeric": "320"
+  },
+  {
+    "Country_Code": 108,
+    "Country_Name": "HONDURAS",
+    "Country_Nationality_Name": "Honduran",
+    "Alpfa_2_Code": "HN",
+    "Alpfa_3_Code": "HND",
+    "Numeric": "340"
+  },
+  {
+    "Country_Code": 109,
+    "Country_Name": "MEXICO",
+    "Country_Nationality_Name": "Mexican",
+    "Alpfa_2_Code": "MX",
+    "Alpfa_3_Code": "MEX",
+    "Numeric": "484"
+  },
+  {
+    "Country_Code": 110,
+    "Country_Name": "NICARAGUA",
+    "Country_Nationality_Name": "Nicaraguan",
+    "Alpfa_2_Code": "NI",
+    "Alpfa_3_Code": "NIC",
+    "Numeric": "558"
+  },
+  {
+    "Country_Code": 112,
+    "Country_Name": "BAHAMAS",
+    "Country_Nationality_Name": "Bahamian",
+    "Alpfa_2_Code": "BS",
+    "Alpfa_3_Code": "BHS",
+    "Numeric": "44"
+  },
+  {
+    "Country_Code": 113,
+    "Country_Name": "BARBADOS",
+    "Country_Nationality_Name": "Barbadian",
+    "Alpfa_2_Code": "BB",
+    "Alpfa_3_Code": "BRB",
+    "Numeric": "52"
+  },
+  {
+    "Country_Code": 114,
+    "Country_Name": "CUBA",
+    "Country_Nationality_Name": "Cuban",
+    "Alpfa_2_Code": "CU",
+    "Alpfa_3_Code": "CUB",
+    "Numeric": "192"
+  },
+  {
+    "Country_Code": 115,
+    "Country_Name": "DOMINICA",
+    "Country_Nationality_Name": "Dominican",
+    "Alpfa_2_Code": "DM",
+    "Alpfa_3_Code": "DMA",
+    "Numeric": "212"
+  },
+  {
+    "Country_Code": 116,
+    "Country_Name": "DOMINICAN REPUBLIC",
+    "Country_Nationality_Name": "Dominican",
+    "Alpfa_2_Code": "DO",
+    "Alpfa_3_Code": "DOM",
+    "Numeric": "214"
+  },
+  {
+    "Country_Code": 117,
+    "Country_Name": "GRENADA",
+    "Country_Nationality_Name": "Grenadian",
+    "Alpfa_2_Code": "GD",
+    "Alpfa_3_Code": "GRD",
+    "Numeric": "308"
+  },
+  {
+    "Country_Code": 118,
+    "Country_Name": "GUADELOUPE",
+    "Country_Nationality_Name": "Guadeloupian",
+    "Alpfa_2_Code": "GP",
+    "Alpfa_3_Code": "GLP",
+    "Numeric": "312"
+  },
+  {
+    "Country_Code": 119,
+    "Country_Name": "HAITI",
+    "Country_Nationality_Name": "Haitian",
+    "Alpfa_2_Code": "HT",
+    "Alpfa_3_Code": "HTI",
+    "Numeric": "332"
+  },
+  {
+    "Country_Code": 120,
+    "Country_Name": "JAMAICA",
+    "Country_Nationality_Name": "Jamaican",
+    "Alpfa_2_Code": "JM",
+    "Alpfa_3_Code": "JAM",
+    "Numeric": "388"
+  },
+  {
+    "Country_Code": 121,
+    "Country_Name": "MARTINIQUE",
+    "Country_Nationality_Name": "French",
+    "Alpfa_2_Code": "MQ",
+    "Alpfa_3_Code": "MTQ",
+    "Numeric": "474"
+  },
+  {
+    "Country_Code": 122,
+    "Country_Name": "NETHERLANDS ANTTILLES",
+    "Country_Nationality_Name": "Dutch",
+    "Alpfa_2_Code": "AN",
+    "Alpfa_3_Code": "ANT",
+    "Numeric": "530"
+  },
+  {
+    "Country_Code": 123,
+    "Country_Name": "PUERTO RICO",
+    "Country_Nationality_Name": "Puerto Rican",
+    "Alpfa_2_Code": "PR",
+    "Alpfa_3_Code": "PRI",
+    "Numeric": "630"
+  },
+  {
+    "Country_Code": 124,
+    "Country_Name": "SAINT KITTS-NEVIS",
+    "Country_Nationality_Name": "Kittian and Nevisian",
+    "Alpfa_2_Code": "KN",
+    "Alpfa_3_Code": "KNA",
+    "Numeric": "659"
+  },
+  {
+    "Country_Code": 125,
+    "Country_Name": "SAINT NT LUCIA",
+    "Country_Nationality_Name": "Saint Lucian",
+    "Alpfa_2_Code": "LC",
+    "Alpfa_3_Code": "LCA",
+    "Numeric": "662"
+  },
+  {
+    "Country_Code": 126,
+    "Country_Name": "SAINT VINCENT & GRENADINE",
+    "Country_Nationality_Name": "Saint Vincentian",
+    "Alpfa_2_Code": "VC",
+    "Alpfa_3_Code": "VCT",
+    "Numeric": "670"
+  },
+  {
+    "Country_Code": 127,
+    "Country_Name": "TRINIDAD & TOBAGO",
+    "Country_Nationality_Name": "Trinidadian",
+    "Alpfa_2_Code": "TT",
+    "Alpfa_3_Code": "TTO",
+    "Numeric": "780"
+  },
+  {
+    "Country_Code": 128,
+    "Country_Name": "ARGENTINA",
+    "Country_Nationality_Name": "Argentinean",
+    "Alpfa_2_Code": "AR",
+    "Alpfa_3_Code": "ARG",
+    "Numeric": "32"
+  },
+  {
+    "Country_Code": 129,
+    "Country_Name": "BOLIVIA",
+    "Country_Nationality_Name": "Bolivian",
+    "Alpfa_2_Code": "BO",
+    "Alpfa_3_Code": "BOL",
+    "Numeric": "68"
+  },
+  {
+    "Country_Code": 130,
+    "Country_Name": "BRAZIL",
+    "Country_Nationality_Name": "Brazilian",
+    "Alpfa_2_Code": "BR",
+    "Alpfa_3_Code": "BRA",
+    "Numeric": "76"
+  },
+  {
+    "Country_Code": 131,
+    "Country_Name": "CHILE",
+    "Country_Nationality_Name": "Chilean",
+    "Alpfa_2_Code": "CL",
+    "Alpfa_3_Code": "CHL",
+    "Numeric": "152"
+  },
+  {
+    "Country_Code": 132,
+    "Country_Name": "COLOMBIA",
+    "Country_Nationality_Name": "Colombian",
+    "Alpfa_2_Code": "CO",
+    "Alpfa_3_Code": "COL",
+    "Numeric": "170"
+  },
+  {
+    "Country_Code": 133,
+    "Country_Name": "ECUADOR",
+    "Country_Nationality_Name": "Ecuadorean",
+    "Alpfa_2_Code": "EC",
+    "Alpfa_3_Code": "ECU",
+    "Numeric": "218"
+  },
+  {
+    "Country_Code": 134,
+    "Country_Name": "GUYANA",
+    "Country_Nationality_Name": "Guyanese",
+    "Alpfa_2_Code": "GY",
+    "Alpfa_3_Code": "GUY",
+    "Numeric": "328"
+  },
+  {
+    "Country_Code": 135,
+    "Country_Name": "PARAGUAY",
+    "Country_Nationality_Name": "Paraguayan",
+    "Alpfa_2_Code": "PY",
+    "Alpfa_3_Code": "PRY",
+    "Numeric": "600"
+  },
+  {
+    "Country_Code": 136,
+    "Country_Name": "PERU",
+    "Country_Nationality_Name": "Peruvian",
+    "Alpfa_2_Code": "PE",
+    "Alpfa_3_Code": "PER",
+    "Numeric": "604"
+  },
+  {
+    "Country_Code": 139,
+    "Country_Name": "URUGUAY",
+    "Country_Nationality_Name": "Uruguayan",
+    "Alpfa_2_Code": "UY",
+    "Alpfa_3_Code": "URY",
+    "Numeric": "858"
+  },
+  {
+    "Country_Code": 140,
+    "Country_Name": "VENEZUELA",
+    "Country_Nationality_Name": "Venezuelan",
+    "Alpfa_2_Code": "VE",
+    "Alpfa_3_Code": "VEN",
+    "Numeric": "862"
+  },
+  {
+    "Country_Code": 202,
+    "Country_Name": "AZERBAIJAN",
+    "Country_Nationality_Name": "Azerbaijani",
+    "Alpfa_2_Code": "AZ",
+    "Alpfa_3_Code": "AZE",
+    "Numeric": "31"
+  },
+  {
+    "Country_Code": 203,
+    "Country_Name": "BAHRAIN",
+    "Country_Nationality_Name": "Bahraini",
+    "Alpfa_2_Code": "BH",
+    "Alpfa_3_Code": "BHR",
+    "Numeric": "48"
+  },
+  {
+    "Country_Code": 204,
+    "Country_Name": "CYPRUS",
+    "Country_Nationality_Name": "Cypriot",
+    "Alpfa_2_Code": "CY",
+    "Alpfa_3_Code": "CYP",
+    "Numeric": "196"
+  },
+  {
+    "Country_Code": 205,
+    "Country_Name": "GAZA",
+    "Country_Nationality_Name": "Palestinian",
+    "Alpfa_2_Code": "PS",
+    "Alpfa_3_Code": "PSE",
+    "Numeric": "275"
+  },
+  {
+    "Country_Code": 206,
+    "Country_Name": "GEORGIA",
+    "Country_Nationality_Name": "Georgian",
+    "Alpfa_2_Code": "GE",
+    "Alpfa_3_Code": "GEO",
+    "Numeric": "268"
+  },
+  {
+    "Country_Code": 207,
+    "Country_Name": "IRAQ",
+    "Country_Nationality_Name": "Iraqi",
+    "Alpfa_2_Code": "IQ",
+    "Alpfa_3_Code": "IRQ",
+    "Numeric": "368"
+  },
+  {
+    "Country_Code": 209,
+    "Country_Name": "JORDAN",
+    "Country_Nationality_Name": "Jordanian",
+    "Alpfa_2_Code": "JO",
+    "Alpfa_3_Code": "JOR",
+    "Numeric": "400"
+  },
+  {
+    "Country_Code": 210,
+    "Country_Name": "KUWAIT",
+    "Country_Nationality_Name": "Kuwaiti",
+    "Alpfa_2_Code": "KW",
+    "Alpfa_3_Code": "KWT",
+    "Numeric": "414"
+  },
+  {
+    "Country_Code": 211,
+    "Country_Name": "LEBANON",
+    "Country_Nationality_Name": "Lebanese",
+    "Alpfa_2_Code": "LB",
+    "Alpfa_3_Code": "LBN",
+    "Numeric": "422"
+  },
+  {
+    "Country_Code": 212,
+    "Country_Name": "OMAN",
+    "Country_Nationality_Name": "Omani",
+    "Alpfa_2_Code": "OM",
+    "Alpfa_3_Code": "OMN",
+    "Numeric": "512"
+  },
+  {
+    "Country_Code": 213,
+    "Country_Name": "QATAR",
+    "Country_Nationality_Name": "Qatari",
+    "Alpfa_2_Code": "QA",
+    "Alpfa_3_Code": "QAT",
+    "Numeric": "634"
+  },
+  {
+    "Country_Code": 214,
+    "Country_Name": "SAUDI ARABIA",
+    "Country_Nationality_Name": "Saudi Arabian",
+    "Alpfa_2_Code": "SA",
+    "Alpfa_3_Code": "SAU",
+    "Numeric": "682"
+  },
+  {
+    "Country_Code": 215,
+    "Country_Name": "SYRIA",
+    "Country_Nationality_Name": "Syrian",
+    "Alpfa_2_Code": "SY",
+    "Alpfa_3_Code": "SYR",
+    "Numeric": "760"
+  },
+  {
+    "Country_Code": 216,
+    "Country_Name": "TURKEY",
+    "Country_Nationality_Name": "Turkish",
+    "Alpfa_2_Code": "TR",
+    "Alpfa_3_Code": "TUR",
+    "Numeric": "792"
+  },
+  {
+    "Country_Code": 217,
+    "Country_Name": "UNITED ARAB EMIRATE",
+    "Country_Nationality_Name": "Emirati",
+    "Alpfa_2_Code": "AE",
+    "Alpfa_3_Code": "ARE",
+    "Numeric": "784"
+  },
+  {
+    "Country_Code": 218,
+    "Country_Name": "WEST BANK",
+    "Country_Nationality_Name": "Sahrawi",
+    "Alpfa_2_Code": "EH",
+    "Alpfa_3_Code": "ESH",
+    "Numeric": "732"
+  },
+  {
+    "Country_Code": 219,
+    "Country_Name": "YEMEN",
+    "Country_Nationality_Name": "Yemeni",
+    "Alpfa_2_Code": "YE",
+    "Alpfa_3_Code": "YEM",
+    "Numeric": "887"
+  },
+  {
+    "Country_Code": 220,
+    "Country_Name": "AFGHANISTAN",
+    "Country_Nationality_Name": "Afghan",
+    "Alpfa_2_Code": "AF",
+    "Alpfa_3_Code": "AFG",
+    "Numeric": "4"
+  },
+  {
+    "Country_Code": 221,
+    "Country_Name": "BANGLADESH",
+    "Country_Nationality_Name": "Bangladeshi",
+    "Alpfa_2_Code": "BD",
+    "Alpfa_3_Code": "BGD",
+    "Numeric": "50"
+  },
+  {
+    "Country_Code": 222,
+    "Country_Name": "BHUTAN",
+    "Country_Nationality_Name": "Bhutanese",
+    "Alpfa_2_Code": "BT",
+    "Alpfa_3_Code": "BTN",
+    "Numeric": "64"
+  },
+  {
+    "Country_Code": 223,
+    "Country_Name": "INDIA",
+    "Country_Nationality_Name": "Indian",
+    "Alpfa_2_Code": "IO",
+    "Alpfa_3_Code": "IOT",
+    "Numeric": "86"
+  },
+  {
+    "Country_Code": 224,
+    "Country_Name": "IRAN",
+    "Country_Nationality_Name": "Iranian",
+    "Alpfa_2_Code": "IR",
+    "Alpfa_3_Code": "IRN",
+    "Numeric": "364"
+  },
+  {
+    "Country_Code": 225,
+    "Country_Name": "KAZAKSTAN",
+    "Country_Nationality_Name": "Kazakhstani",
+    "Alpfa_2_Code": "KZ",
+    "Alpfa_3_Code": "KAZ",
+    "Numeric": "398"
+  },
+  {
+    "Country_Code": 226,
+    "Country_Name": "KYRGYZSTAN",
+    "Country_Nationality_Name": "Kirghiz",
+    "Alpfa_2_Code": "KG",
+    "Alpfa_3_Code": "KGZ",
+    "Numeric": "417"
+  },
+  {
+    "Country_Code": 227,
+    "Country_Name": "MALDIVES",
+    "Country_Nationality_Name": "Maldivan",
+    "Alpfa_2_Code": "MV",
+    "Alpfa_3_Code": "MDV",
+    "Numeric": "462"
+  },
+  {
+    "Country_Code": 228,
+    "Country_Name": "NEPAL",
+    "Country_Nationality_Name": "Nepalese",
+    "Alpfa_2_Code": "NP",
+    "Alpfa_3_Code": "NPL",
+    "Numeric": "524"
+  },
+  {
+    "Country_Code": 229,
+    "Country_Name": "PAKISTAN",
+    "Country_Nationality_Name": "Pakistani",
+    "Alpfa_2_Code": "PK",
+    "Alpfa_3_Code": "PAK",
+    "Numeric": "586"
+  },
+  {
+    "Country_Code": 230,
+    "Country_Name": "SRI-LANKA",
+    "Country_Nationality_Name": "Sri Lankan",
+    "Alpfa_2_Code": "LK",
+    "Alpfa_3_Code": "LKA",
+    "Numeric": "144"
+  },
+  {
+    "Country_Code": 231,
+    "Country_Name": "TAJIKISTAN",
+    "Country_Nationality_Name": "Tadzhik",
+    "Alpfa_2_Code": "TJ",
+    "Alpfa_3_Code": "TJK",
+    "Numeric": "762"
+  },
+  {
+    "Country_Code": 232,
+    "Country_Name": "TURKMENISTAN",
+    "Country_Nationality_Name": "Turkmen",
+    "Alpfa_2_Code": "TM",
+    "Alpfa_3_Code": "TKM",
+    "Numeric": "795"
+  },
+  {
+    "Country_Code": 233,
+    "Country_Name": "UZBEKISTAN",
+    "Country_Nationality_Name": "Uzbekistani",
+    "Alpfa_2_Code": "UZ",
+    "Alpfa_3_Code": "UZB",
+    "Numeric": "860"
+  },
+  {
+    "Country_Code": 234,
+    "Country_Name": "BRUNEI",
+    "Country_Nationality_Name": "Bruneian",
+    "Alpfa_2_Code": "BN",
+    "Alpfa_3_Code": "BRN",
+    "Numeric": "96"
+  },
+  {
+    "Country_Code": 137,
+    "Country_Name": "SURINAME",
+    "Country_Nationality_Name": "Surinamer",
+    "Alpfa_2_Code": "SR",
+    "Alpfa_3_Code": "SUR",
+    "Numeric": "740"
+  },
+  {
+    "Country_Code": 235,
+    "Country_Name": "CAMBODIA",
+    "Country_Nationality_Name": "Cambodian",
+    "Alpfa_2_Code": "KH",
+    "Alpfa_3_Code": "KHM",
+    "Numeric": "116"
+  },
+  {
+    "Country_Code": 236,
+    "Country_Name": "INDONESIA",
+    "Country_Nationality_Name": "Indonesian",
+    "Alpfa_2_Code": "ID",
+    "Alpfa_3_Code": "IDN",
+    "Numeric": "360"
+  },
+  {
+    "Country_Code": 237,
+    "Country_Name": "LAOS",
+    "Country_Nationality_Name": "Laotian",
+    "Alpfa_2_Code": "LA",
+    "Alpfa_3_Code": "LAO",
+    "Numeric": "418"
+  },
+  {
+    "Country_Code": 238,
+    "Country_Name": "MALAYSIA",
+    "Country_Nationality_Name": "Malaysian",
+    "Alpfa_2_Code": "MY",
+    "Alpfa_3_Code": "MYS",
+    "Numeric": "458"
+  },
+  {
+    "Country_Code": 239,
+    "Country_Name": "MYANMAR [BURMA]",
+    "Country_Nationality_Name": "Myanmar",
+    "Alpfa_2_Code": "MM",
+    "Alpfa_3_Code": "MMR",
+    "Numeric": "104"
+  },
+  {
+    "Country_Code": 240,
+    "Country_Name": "PHILIPPINES",
+    "Country_Nationality_Name": "Filipino",
+    "Alpfa_2_Code": "PH",
+    "Alpfa_3_Code": "PHL",
+    "Numeric": "608"
+  },
+  {
+    "Country_Code": 241,
+    "Country_Name": "SINGAPORE",
+    "Country_Nationality_Name": "Singaporean",
+    "Alpfa_2_Code": "SG",
+    "Alpfa_3_Code": "SGP",
+    "Numeric": "702"
+  },
+  {
+    "Country_Code": 242,
+    "Country_Name": "THAILAND",
+    "Country_Nationality_Name": "Thai",
+    "Alpfa_2_Code": "TH",
+    "Alpfa_3_Code": "THA",
+    "Numeric": "764"
+  },
+  {
+    "Country_Code": 243,
+    "Country_Name": "VIETNAM",
+    "Country_Nationality_Name": "Vietnamese",
+    "Alpfa_2_Code": "VN",
+    "Alpfa_3_Code": "VNM",
+    "Numeric": "704"
+  },
+  {
+    "Country_Code": 244,
+    "Country_Name": "CHINA",
+    "Country_Nationality_Name": "Chinese",
+    "Alpfa_2_Code": "CN",
+    "Alpfa_3_Code": "CHN",
+    "Numeric": "156"
+  },
+  {
+    "Country_Code": 245,
+    "Country_Name": "HONG KONG",
+    "Country_Nationality_Name": "Chinese",
+    "Alpfa_2_Code": "HK",
+    "Alpfa_3_Code": "HKG",
+    "Numeric": "344"
+  },
+  {
+    "Country_Code": 246,
+    "Country_Name": "JAPAN",
+    "Country_Nationality_Name": "Japanese",
+    "Alpfa_2_Code": "JP",
+    "Alpfa_3_Code": "JPN",
+    "Numeric": "392"
+  },
+  {
+    "Country_Code": 248,
+    "Country_Name": "SOUTH KOREA",
+    "Country_Nationality_Name": "South Korean",
+    "Alpfa_2_Code": "KR",
+    "Alpfa_3_Code": "KOR",
+    "Numeric": "410"
+  },
+  {
+    "Country_Code": 249,
+    "Country_Name": "MACAO",
+    "Country_Nationality_Name": "MACAO",
+    "Alpfa_2_Code": "MO",
+    "Alpfa_3_Code": "MAC",
+    "Numeric": "446"
+  },
+  {
+    "Country_Code": 250,
+    "Country_Name": "MONGOLIA",
+    "Country_Nationality_Name": "Mongolian",
+    "Alpfa_2_Code": "MN",
+    "Alpfa_3_Code": "MNG",
+    "Numeric": "496"
+  },
+  {
+    "Country_Code": 251,
+    "Country_Name": "TAIWAN",
+    "Country_Nationality_Name": "Taiwanese\\r\\n",
+    "Alpfa_2_Code": "TW",
+    "Alpfa_3_Code": "TWN",
+    "Numeric": "158"
+  },
+  {
+    "Country_Code": 301,
+    "Country_Name": "DENMARK",
+    "Country_Nationality_Name": "Danish",
+    "Alpfa_2_Code": "DK",
+    "Alpfa_3_Code": "DNK",
+    "Numeric": "208"
+  },
+  {
+    "Country_Code": 302,
+    "Country_Name": "ESTONIA",
+    "Country_Nationality_Name": "ESTONIAN",
+    "Alpfa_2_Code": "EE",
+    "Alpfa_3_Code": "EST",
+    "Numeric": "233"
+  },
+  {
+    "Country_Code": 303,
+    "Country_Name": "FINLAND",
+    "Country_Nationality_Name": "FINNISH",
+    "Alpfa_2_Code": "FI",
+    "Alpfa_3_Code": "FIN",
+    "Numeric": "246"
+  },
+  {
+    "Country_Code": 304,
+    "Country_Name": "ICELAND",
+    "Country_Nationality_Name": "ICELANDER",
+    "Alpfa_2_Code": "IS",
+    "Alpfa_3_Code": "ISL",
+    "Numeric": "352"
+  },
+  {
+    "Country_Code": 305,
+    "Country_Name": "IRELAND",
+    "Country_Nationality_Name": "IRISH",
+    "Alpfa_2_Code": "IE",
+    "Alpfa_3_Code": "IRL",
+    "Numeric": "372"
+  },
+  {
+    "Country_Code": 306,
+    "Country_Name": "LATVIA",
+    "Country_Nationality_Name": "LATVIAN",
+    "Alpfa_2_Code": "LV",
+    "Alpfa_3_Code": "LVA",
+    "Numeric": "428"
+  },
+  {
+    "Country_Code": 307,
+    "Country_Name": "LITHUANIA",
+    "Country_Nationality_Name": "LITHUANIAN",
+    "Alpfa_2_Code": "LT",
+    "Alpfa_3_Code": "LTU",
+    "Numeric": "440"
+  },
+  {
+    "Country_Code": 308,
+    "Country_Name": "NORWAY",
+    "Country_Nationality_Name": "NORWEGIAN",
+    "Alpfa_2_Code": "NO",
+    "Alpfa_3_Code": "NOR",
+    "Numeric": "578"
+  },
+  {
+    "Country_Code": 309,
+    "Country_Name": "SWEDEN",
+    "Country_Nationality_Name": "SWEDISH",
+    "Alpfa_2_Code": "SE",
+    "Alpfa_3_Code": "SWE",
+    "Numeric": "752"
+  },
+  {
+    "Country_Code": 310,
+    "Country_Name": "UNITED KINGDOM",
+    "Country_Nationality_Name": "BRITISH",
+    "Alpfa_2_Code": "GB",
+    "Alpfa_3_Code": "GBR",
+    "Numeric": "826"
+  },
+  {
+    "Country_Code": 311,
+    "Country_Name": "AUSTRIA",
+    "Country_Nationality_Name": "ASTRIAN",
+    "Alpfa_2_Code": "AT",
+    "Alpfa_3_Code": "AUT",
+    "Numeric": "40"
+  },
+  {
+    "Country_Code": 312,
+    "Country_Name": "BELGIUM",
+    "Country_Nationality_Name": "BUELGIAN",
+    "Alpfa_2_Code": "BE",
+    "Alpfa_3_Code": "BEL",
+    "Numeric": "56"
+  },
+  {
+    "Country_Code": 313,
+    "Country_Name": "FRANCE",
+    "Country_Nationality_Name": "FRENCH",
+    "Alpfa_2_Code": "FR",
+    "Alpfa_3_Code": "FRA",
+    "Numeric": "250"
+  },
+  {
+    "Country_Code": 314,
+    "Country_Name": "GERMANY",
+    "Country_Nationality_Name": "GERMAN",
+    "Alpfa_2_Code": "DE",
+    "Alpfa_3_Code": "DEU",
+    "Numeric": "276"
+  },
+  {
+    "Country_Code": 315,
+    "Country_Name": "LIECHENSTEIN",
+    "Country_Nationality_Name": "LIECHENSTEINER",
+    "Alpfa_2_Code": "LI",
+    "Alpfa_3_Code": "LIE",
+    "Numeric": "43"
+  },
+  {
+    "Country_Code": 316,
+    "Country_Name": "LUXEMBOURG",
+    "Country_Nationality_Name": "LUXEMBOURGER",
+    "Alpfa_2_Code": "LU",
+    "Alpfa_3_Code": "LUX",
+    "Numeric": "442"
+  },
+  {
+    "Country_Code": 317,
+    "Country_Name": "NETHERLANDS",
+    "Country_Nationality_Name": "DUTCH",
+    "Alpfa_2_Code": "NL",
+    "Alpfa_3_Code": "NLD",
+    "Numeric": "528"
+  },
+  {
+    "Country_Code": 318,
+    "Country_Name": "SWITZERLAND",
+    "Country_Nationality_Name": "SWISS",
+    "Alpfa_2_Code": "CH",
+    "Alpfa_3_Code": "CHE",
+    "Numeric": "756"
+  },
+  {
+    "Country_Code": 321,
+    "Country_Name": "BELARUS",
+    "Country_Nationality_Name": "BELARUSIAN",
+    "Alpfa_2_Code": "BY",
+    "Alpfa_3_Code": "BLR",
+    "Numeric": "112"
+  },
+  {
+    "Country_Code": 322,
+    "Country_Name": "BULGARIA",
+    "Country_Nationality_Name": "BULGARIAN",
+    "Alpfa_2_Code": "BG",
+    "Alpfa_3_Code": "BGR",
+    "Numeric": "100"
+  },
+  {
+    "Country_Code": 323,
+    "Country_Name": "CZECH REPUBLIC",
+    "Country_Nationality_Name": "CZECH",
+    "Alpfa_2_Code": "CZ",
+    "Alpfa_3_Code": "CZE",
+    "Numeric": "203"
+  },
+  {
+    "Country_Code": 324,
+    "Country_Name": "HUNGARY",
+    "Country_Nationality_Name": "HUNGARIAN",
+    "Alpfa_2_Code": "HU",
+    "Alpfa_3_Code": "HUN",
+    "Numeric": "348"
+  },
+  {
+    "Country_Code": 325,
+    "Country_Name": "MALDOVA",
+    "Country_Nationality_Name": "MALDOVAN",
+    "Alpfa_2_Code": "MD",
+    "Alpfa_3_Code": "MDA",
+    "Numeric": "498"
+  },
+  {
+    "Country_Code": 326,
+    "Country_Name": "POLAND",
+    "Country_Nationality_Name": "POLISH",
+    "Alpfa_2_Code": "PL",
+    "Alpfa_3_Code": "POL",
+    "Numeric": "616"
+  },
+  {
+    "Country_Code": 327,
+    "Country_Name": "ROMANIA",
+    "Country_Nationality_Name": "ROMANIAN",
+    "Alpfa_2_Code": "RO",
+    "Alpfa_3_Code": "ROU",
+    "Numeric": "642"
+  },
+  {
+    "Country_Code": 328,
+    "Country_Name": "RUSSIA",
+    "Country_Nationality_Name": "RUSSIAN",
+    "Alpfa_2_Code": "RU",
+    "Alpfa_3_Code": "RUS",
+    "Numeric": "643"
+  },
+  {
+    "Country_Code": 329,
+    "Country_Name": "SLOVAKIA",
+    "Country_Nationality_Name": "SLOVAK",
+    "Alpfa_2_Code": "SK",
+    "Alpfa_3_Code": "SVK",
+    "Numeric": "703"
+  },
+  {
+    "Country_Code": 340,
+    "Country_Name": "UKRAINE",
+    "Country_Nationality_Name": "UKRAINIAN",
+    "Alpfa_2_Code": "UA",
+    "Alpfa_3_Code": "UKR",
+    "Numeric": "804"
+  },
+  {
+    "Country_Code": 342,
+    "Country_Name": "BOSNIA HERZEGOVINA",
+    "Country_Nationality_Name": "BOSNIAN",
+    "Alpfa_2_Code": "BA",
+    "Alpfa_3_Code": "BIH",
+    "Numeric": "70"
+  },
+  {
+    "Country_Code": 343,
+    "Country_Name": "CROATIA",
+    "Country_Nationality_Name": "CROATIAN",
+    "Alpfa_2_Code": "HR",
+    "Alpfa_3_Code": "HRV",
+    "Numeric": "191"
+  },
+  {
+    "Country_Code": 344,
+    "Country_Name": "GREECE",
+    "Country_Nationality_Name": "GREEK",
+    "Alpfa_2_Code": "GR",
+    "Alpfa_3_Code": "GRC",
+    "Numeric": "300"
+  },
+  {
+    "Country_Code": 345,
+    "Country_Name": "ITALY",
+    "Country_Nationality_Name": "ITALIA",
+    "Alpfa_2_Code": "IT",
+    "Alpfa_3_Code": "ITA",
+    "Numeric": "380"
+  },
+  {
+    "Country_Code": 346,
+    "Country_Name": "MACEDONIA",
+    "Country_Nationality_Name": "MACEDONIAN",
+    "Alpfa_2_Code": "MK",
+    "Alpfa_3_Code": "MKD",
+    "Numeric": "807"
+  },
+  {
+    "Country_Code": 347,
+    "Country_Name": "PORTUGAL",
+    "Country_Nationality_Name": "PORTUGUESE",
+    "Alpfa_2_Code": "PT",
+    "Alpfa_3_Code": "PRT",
+    "Numeric": "620"
+  },
+  {
+    "Country_Code": 348,
+    "Country_Name": "SAN MARINO",
+    "Country_Nationality_Name": "SAMMARINESE",
+    "Alpfa_2_Code": "SM",
+    "Alpfa_3_Code": "SMR",
+    "Numeric": "674"
+  },
+  {
+    "Country_Code": 349,
+    "Country_Name": "SLOVENIA",
+    "Country_Nationality_Name": "SLOVENE",
+    "Alpfa_2_Code": "SI",
+    "Alpfa_3_Code": "SVN",
+    "Numeric": "705"
+  },
+  {
+    "Country_Code": 350,
+    "Country_Name": "SPAIN",
+    "Country_Nationality_Name": "SPANISH",
+    "Alpfa_2_Code": "ES",
+    "Alpfa_3_Code": "ESP",
+    "Numeric": "724"
+  },
+  {
+    "Country_Code": 351,
+    "Country_Name": "YUGOSLAVIA",
+    "Country_Nationality_Name": "YUGOSLAV",
+    "Alpfa_2_Code": "YU",
+    "Alpfa_3_Code": "YUG",
+    "Numeric": "891"
+  },
+  {
+    "Country_Code": 401,
+    "Country_Name": "AUSTRALIA",
+    "Country_Nationality_Name": "AUSTRALIAN",
+    "Alpfa_2_Code": "AU",
+    "Alpfa_3_Code": "AUS",
+    "Numeric": "36"
+  },
+  {
+    "Country_Code": 402,
+    "Country_Name": "FEDERAL STATES OF MICRONESIA",
+    "Country_Nationality_Name": "MICRONESIAN",
+    "Alpfa_2_Code": "FM",
+    "Alpfa_3_Code": "FSM",
+    "Numeric": "583"
+  },
+  {
+    "Country_Code": 403,
+    "Country_Name": "FIJI",
+    "Country_Nationality_Name": "FIJIAN",
+    "Alpfa_2_Code": "FJ",
+    "Alpfa_3_Code": "FJI",
+    "Numeric": "242"
+  },
+  {
+    "Country_Code": 404,
+    "Country_Name": "FRENCH POLYNESIA",
+    "Country_Nationality_Name": "FRENCH POLYNESIAN",
+    "Alpfa_2_Code": "PF",
+    "Alpfa_3_Code": "PYF",
+    "Numeric": "258"
+  },
+  {
+    "Country_Code": 405,
+    "Country_Name": "GUAM",
+    "Country_Nationality_Name": "GUAMANIAN",
+    "Alpfa_2_Code": "GU",
+    "Alpfa_3_Code": "GUM",
+    "Numeric": "316"
+  },
+  {
+    "Country_Code": 406,
+    "Country_Name": "MARSHALL ISLANDS",
+    "Country_Nationality_Name": "MARSHALLESE",
+    "Alpfa_2_Code": "MH",
+    "Alpfa_3_Code": "MHL",
+    "Numeric": "584"
+  },
+  {
+    "Country_Code": 407,
+    "Country_Name": "NEW CALEDONIA",
+    "Country_Nationality_Name": "NEW CALEDOIAN",
+    "Alpfa_2_Code": "NC",
+    "Alpfa_3_Code": "NCL",
+    "Numeric": "540"
+  },
+  {
+    "Country_Code": 408,
+    "Country_Name": "NEW ZEALAND",
+    "Country_Nationality_Name": "NEW ZEALANDER",
+    "Alpfa_2_Code": "NZ",
+    "Alpfa_3_Code": "NZL",
+    "Numeric": "554"
+  },
+  {
+    "Country_Code": 409,
+    "Country_Name": "PALAU",
+    "Country_Nationality_Name": "PALAUAN",
+    "Alpfa_2_Code": "PW",
+    "Alpfa_3_Code": "PLW",
+    "Numeric": "585"
+  },
+  {
+    "Country_Code": 410,
+    "Country_Name": "PAPUA NEW GUINEA",
+    "Country_Nationality_Name": "PAPUA NEW GUINEAN",
+    "Alpfa_2_Code": "PG",
+    "Alpfa_3_Code": "PNG",
+    "Numeric": "598"
+  },
+  {
+    "Country_Code": 411,
+    "Country_Name": "SOLOMON ISLAND",
+    "Country_Nationality_Name": "SOLOMON ISLANDER",
+    "Alpfa_2_Code": "SB",
+    "Alpfa_3_Code": "SBL",
+    "Numeric": "90"
+  },
+  {
+    "Country_Code": 412,
+    "Country_Name": "VANUATU",
+    "Country_Nationality_Name": "NI-VANUATU",
+    "Alpfa_2_Code": "VU",
+    "Alpfa_3_Code": "VUT",
+    "Numeric": "548"
+  },
+  {
+    "Country_Code": 413,
+    "Country_Name": "WESTERN SAMOA",
+    "Country_Nationality_Name": "SAMOAN",
+    "Alpfa_2_Code": "WS",
+    "Alpfa_3_Code": "WSM",
+    "Numeric": "882"
+  },
+  {
+    "Country_Code": 415,
+    "Country_Name": "AMERICAN_SAMOA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ASM",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 416,
+    "Country_Name": "ANDORRA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "AND",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 417,
+    "Country_Name": "ANGUILLA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "AIA",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 418,
+    "Country_Name": "ANTARCTICA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ATA",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 419,
+    "Country_Name": "ANTIGUA_BARBUDA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ATG",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 420,
+    "Country_Name": "ARUBA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ABW",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 421,
+    "Country_Name": "BERMUDA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "BMU",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 422,
+    "Country_Name": "BOUVET_ISLAND",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "BVT",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 423,
+    "Country_Name": "CAYMAN_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "CYM",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 424,
+    "Country_Name": "CHRISTMAS_ISLAND",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "CXR",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 425,
+    "Country_Name": "COCOS_KEELING_ISLANDS ",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "CCK",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 426,
+    "Country_Name": "CONGO_DEMOCRATIC_PEOPLE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "COD",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 427,
+    "Country_Name": "COOK_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "COK",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 428,
+    "Country_Name": "ERITREA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ERI",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 429,
+    "Country_Name": "FALKLAND_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "FLK",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 430,
+    "Country_Name": "FAROE_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "FRO",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 431,
+    "Country_Name": "FRENCH_GUIANA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "GUF",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 432,
+    "Country_Name": "FRENCH_SOUTHERN_TERRITORIES",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "ATF",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 433,
+    "Country_Name": "GIBRALTAR",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "GIB",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 434,
+    "Country_Name": "HEARD_AND_MCDONALD_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "HMD",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 435,
+    "Country_Name": "KIRIBATI",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "KIR",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 436,
+    "Country_Name": "KOREA DEMOCRATIC PEOPLE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "PRK",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 437,
+    "Country_Name": "MALT",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "MLT",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 438,
+    "Country_Name": "MAYOTTE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "MYT",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 439,
+    "Country_Name": "MONACO",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "MCA",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 440,
+    "Country_Name": "MONTSERRAT",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "MSR",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 441,
+    "Country_Name": "NAURU",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "NRU",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 442,
+    "Country_Name": "NIUE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "NIU",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 443,
+    "Country_Name": "NORFOLK_ISLAND",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "NFK",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 444,
+    "Country_Name": "NORTHERN_MARIANA_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "MNP",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 445,
+    "Country_Name": "PANAMA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "PAN",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 446,
+    "Country_Name": "PITCAIRN",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "PCN",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 447,
+    "Country_Name": "SAINT_PIERRE_AND_MIQUELON",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SPM",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 448,
+    "Country_Name": "SERBIA_AND_MONTENEGRO",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SCG",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 449,
+    "Country_Name": "SOLOMON_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SLI",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 450,
+    "Country_Name": "SOUTH_GEORGIA_AND_THE_SOUTH_SANDWICH_ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SGS",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 451,
+    "Country_Name": "SUDAN",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SDN",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 452,
+    "Country_Name": "SVALBARD_AND_JAN_MAYEN",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "SJM",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 453,
+    "Country_Name": "TIMOR LESTE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "TLS",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 454,
+    "Country_Name": "TOKELAU",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "TKL",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 455,
+    "Country_Name": "TONGA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "TON",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 456,
+    "Country_Name": "TURKS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "TCA",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 457,
+    "Country_Name": "TUVALU",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "TUV",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 458,
+    "Country_Name": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "UMI",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 459,
+    "Country_Name": "VATICAN_CITY_STATE",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "VAT",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 460,
+    "Country_Name": "VIRGIN_ISLANDS_BRITISH",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "VGB",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 461,
+    "Country_Name": "VIRGIN ISLANDS US",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "VIR",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 462,
+    "Country_Name": "WALLIS AND FUTUNA",
+    "Country_Nationality_Name": null,
+    "Alpfa_2_Code": null,
+    "Alpfa_3_Code": "WLF",
+    "Numeric": null
+  },
+  {
+    "Country_Code": 201,
+    "Country_Name": "ARMENIA",
+    "Country_Nationality_Name": "Armenian",
+    "Alpfa_2_Code": "AM",
+    "Alpfa_3_Code": "ARM",
+    "Numeric": "51"
+  },
+  {
+    "Country_Code": 341,
+    "Country_Name": "ALBANIA",
+    "Country_Nationality_Name": "ALBANIAN",
+    "Alpfa_2_Code": "AM",
+    "Alpfa_3_Code": "ALB",
+    "Numeric": "8"
+  },
+  {
+    "Country_Code": 93,
+    "Country_Name": "THE DEMOCRATIC REPUBLIC OF CONGO",
+    "Country_Nationality_Name": "THE DEMOCRATIC REPUBLIC OF CONGO",
+    "Alpfa_2_Code": "CD",
+    "Alpfa_3_Code": "COD",
+    "Numeric": "180"
+  }
+]

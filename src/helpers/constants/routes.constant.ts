@@ -1,0 +1,17 @@
+export enum ROUTES {
+  LOGIN = "/",
+  FORGOT_PASSWORD = "/forgot-password",
+  STUDENTS = "/students",
+  SEARCH_STUDENT = "/search-student",
+  STUDENT_VALIDATION = "/validation",
+  APPLICATIONS = "/applications",
+  STUDENT_INFORMATION = "/information",
+  PERMITS = "/permits",
+  ISSUED_PERMIT_CONFIRMATION = "/permit-confirmation",
+  ISSUE_PERMIT = "/issue-permit",
+  INSPECTION = "/inspection",
+  PROFILE = "/profile",
+  CHANGE_PASSWORD = "/change-password",
+  NEW_PASSWORD = "/change-password",
+  VERIFY_PAYMENT = "/verify-payment",
+}
